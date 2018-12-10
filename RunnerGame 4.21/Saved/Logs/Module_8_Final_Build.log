@@ -3901,3 +3901,426 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2018.12.10-01.55.50:468][993]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Luke_Autumn7720467E4403FB68B35BB2977CFE15F7.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Content/FirstPersonBP/Maps/Luke_Autumn.umap'
 [2018.12.10-01.56.21:400][720]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2018.12.10-01.56.22:277][720]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Luke_AutumnCBB446E94D036CFBB88FC6A9BB1691EF.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Content/FirstPersonBP/Maps/Luke_Autumn.umap'
+[2018.12.10-01.57.41:684][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-01.57.46:359][918]LogAIModule: Creating AISystem for world Arthur_Summer
+[2018.12.10-01.57.46:388][918]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer
+[2018.12.10-01.57.47:665][918]LogSlate: Window 'Save Content' being destroyed
+[2018.12.10-01.57.47:685][918]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/BaseMaterial7A39203E4C7AC1689E196E9E70305C58.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Content/FirstPerson/Meshes/BaseMaterial.uasset'
+[2018.12.10-01.57.47:703][918]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Launch_Pad_Small_Blueprint3B4FA745430D2BECD8F73DA1CE2E9128.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Content/FirstPersonBP/Blueprints/Launch_Pad_Small_Blueprint.uasset'
+[2018.12.10-01.57.47:749][918]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/SM_Grass_01_FoliageType_Fall4478D1514DF095C7F4658683A417C97D.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Grass/SM_Grass_01_FoliageType_Fall.uasset'
+[2018.12.10-01.57.47:797][918]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/SM_Grass_02_FoliageType_Fall53A0835B4EBB4649732EBCBC70650ECA.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Grass/SM_Grass_02_FoliageType_Fall.uasset'
+[2018.12.10-01.57.47:867][918]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/SM_Grass_03_FoliageType_Fall72790FA04A836F7B59D57B949CCFA739.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Content/LowPolyForestPack/Meshes/Tree_Meshes/Foliage_Types/Grass/SM_Grass_03_FoliageType_Fall.uasset'
+[2018.12.10-01.57.47:874][918]Cmd: MAP LOAD FILE="../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Content/FirstPersonBP/Maps/Arthur_Summer.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.10-01.57.47:875][918]LightingResults: New page: Lighting Build
+[2018.12.10-01.57.47:875][918]LoadErrors: New page: Loading map: Arthur_Summer.umap
+[2018.12.10-01.57.47:880][918]MapCheck: New page: Map Check
+[2018.12.10-01.57.47:880][918]LightingResults: New page: Lighting Build
+[2018.12.10-01.58.00:465][918]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'lowerarm_l' 
+[2018.12.10-01.58.00:465][918]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'hand_l' 
+[2018.12.10-01.58.00:465][918]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'upperarm_l' 
+[2018.12.10-01.58.00:465][918]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'spine_03' 
+[2018.12.10-01.58.00:465][918]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'hand_r' 
+[2018.12.10-01.58.00:465][918]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'lowerarm_r' 
+[2018.12.10-01.58.00:466][918]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'upperarm_r' 
+[2018.12.10-01.58.00:466][918]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Sphere' 
+[2018.12.10-01.58.00:467][918]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'lowerarm_l' 
+[2018.12.10-01.58.00:467][918]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'hand_l' 
+[2018.12.10-01.58.00:467][918]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'upperarm_l' 
+[2018.12.10-01.58.00:467][918]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'spine_03' 
+[2018.12.10-01.58.00:467][918]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'hand_r' 
+[2018.12.10-01.58.00:467][918]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'lowerarm_r' 
+[2018.12.10-01.58.00:467][918]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'upperarm_r' 
+[2018.12.10-01.58.00:467][918]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Sphere' 
+[2018.12.10-01.58.00:477][918]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.10-01.58.00:527][918]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.10-01.58.00:527][918]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.135ms to complete.
+[2018.12.10-01.58.00:527][918]LogFileHelpers: Loading map 'Arthur_Summer' took 12.658
+[2018.12.10-01.58.30:885][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-01.58.42:693][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-01.58.52:615][823]Cmd: TRANSACTION UNDO
+[2018.12.10-01.58.52:615][823]LogEditorTransaction: Undo Rotate Actors
+[2018.12.10-01.58.58:548][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-01.59.04:395][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-01.59.36:255][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-01.59.39:728][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-01.59.44:659][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-01.59.44:746][613]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.10-01.59.48:328][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-01.59.51:028][276]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.12.10-01.59.52:125][402]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.12.10-01.59.53:304][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.00.41:648][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.00.45:467][586]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.10-02.01.21:186][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.01.30:680][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.01.35:686][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.01.43:772][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.01.54:077][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.02.05:558][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.02.22:228][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-02.02.23:242][ 99]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Arthur_Summer69E4691748842D0FFD8B68BF3FF6E752.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Content/FirstPersonBP/Maps/Arthur_Summer.umap'
+[2018.12.10-02.06.36:129][231]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-02.06.37:090][231]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Arthur_Summer9DCA8BD041A694C748DBCC8B5EF5227D.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Content/FirstPersonBP/Maps/Arthur_Summer.umap'
+[2018.12.10-02.06.38:760][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.06.40:476][402]LogAIModule: Creating AISystem for world Luke_Autumn
+[2018.12.10-02.06.40:533][402]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn
+[2018.12.10-02.06.40:567][402]Cmd: MAP LOAD FILE="../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Content/FirstPersonBP/Maps/Luke_Autumn.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.10-02.06.40:567][402]LightingResults: New page: Lighting Build
+[2018.12.10-02.06.40:568][402]LoadErrors: New page: Loading map: Luke_Autumn.umap
+[2018.12.10-02.06.40:571][402]MapCheck: New page: Map Check
+[2018.12.10-02.06.40:571][402]LightingResults: New page: Lighting Build
+[2018.12.10-02.06.42:137][402]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.10-02.06.42:185][402]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.10-02.06.42:185][402]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.161ms to complete.
+[2018.12.10-02.06.42:185][402]LogFileHelpers: Loading map 'Luke_Autumn' took 1.619
+[2018.12.10-02.06.46:807][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.07.27:263][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.07.32:420][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.07.47:004][832]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.07.55:944][886]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-02.08.07:613][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.08.07:708][ 37]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.10-02.08.11:206][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.08.43:586][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.09.41:246][886]Cmd: TRANSACTION UNDO
+[2018.12.10-02.09.41:246][886]LogEditorTransaction: Undo Rotate Actors
+[2018.12.10-02.09.41:882][945]Cmd: TRANSACTION UNDO
+[2018.12.10-02.09.41:882][945]LogEditorTransaction: Undo Rotate Actors
+[2018.12.10-02.09.43:257][108]Cmd: TRANSACTION UNDO
+[2018.12.10-02.09.43:257][108]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.10-02.09.46:507][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.10.09:004][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.10.09:096][124]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.10-02.10.09:120][124]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.Luke_Autumn' with GeneratedClass '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.Luke_Autumn'
+[2018.12.10-02.10.09:120][124]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.10-02.10.09:120][124]PIE: New page: PIE session: Luke_Autumn (10 Dec 2018 02:10:09)
+[2018.12.10-02.10.09:120][124]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn
+[2018.12.10-02.10.09:245][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.124797s)
+[2018.12.10-02.10.09:246][124]LogAIModule: Creating AISystem for world Luke_Autumn
+[2018.12.10-02.10.09:246][124]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2018.12.10-02.10.09:246][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn to /Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn (0.125645s)
+[2018.12.10-02.10.09:294][124]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.10-02.10.09:311][124]LogInit: FAudioDevice initialized.
+[2018.12.10-02.10.09:344][124]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.10-02.10.09:355][124]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn up for play (max tick rate 0) at 2018.12.10-02.10.09
+[2018.12.10-02.10.09:356][124]LogWorld: Bringing up level for play took: 0.011015
+[2018.12.10-02.10.09:368][124]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.12.10-02.10.09:369][124]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn:PersistentLevel.FirstPersonCharacter_C_0.Mesh2P' Bone: 'lowerarm_l' 
+[2018.12.10-02.10.09:369][124]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn:PersistentLevel.FirstPersonCharacter_C_0.Mesh2P' Bone: 'hand_l' 
+[2018.12.10-02.10.09:369][124]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn:PersistentLevel.FirstPersonCharacter_C_0.Mesh2P' Bone: 'upperarm_l' 
+[2018.12.10-02.10.09:369][124]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn:PersistentLevel.FirstPersonCharacter_C_0.Mesh2P' Bone: 'spine_03' 
+[2018.12.10-02.10.09:369][124]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn:PersistentLevel.FirstPersonCharacter_C_0.Mesh2P' Bone: 'hand_r' 
+[2018.12.10-02.10.09:369][124]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn:PersistentLevel.FirstPersonCharacter_C_0.Mesh2P' Bone: 'lowerarm_r' 
+[2018.12.10-02.10.09:370][124]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn:PersistentLevel.FirstPersonCharacter_C_0.Mesh2P' Bone: 'upperarm_r' 
+[2018.12.10-02.10.09:370][124]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn:PersistentLevel.FirstPersonCharacter_C_0.Sphere' 
+[2018.12.10-02.10.09:371][124]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn 0.215
+[2018.12.10-02.10.09:372][124]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.Luke_Autumn' with GeneratedClass '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.Luke_Autumn'
+[2018.12.10-02.10.31:115][724]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.Luke_Autumn' with GeneratedClass '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.Luke_Autumn'
+[2018.12.10-02.10.31:116][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-02.10.31:158][724]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.10-02.10.31:158][724]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.Luke_Autumn' with GeneratedClass '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.Luke_Autumn'
+[2018.12.10-02.10.31:190][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-02.10.31:217][725]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2018.12.10-02.10.45:395][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.10.45:527][378]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2018.12.10-02.10.52:735][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.11.06:023][628]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-02.11.18:534][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.11.26:746][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-02.11.33:754][701]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-02.11.39:889][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.11.39:981][405]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.10-02.11.39:992][405]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.Luke_Autumn' with GeneratedClass '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.Luke_Autumn'
+[2018.12.10-02.11.39:992][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.10-02.11.39:992][405]PIE: New page: PIE session: Luke_Autumn (10 Dec 2018 02:11:39)
+[2018.12.10-02.11.39:992][405]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn
+[2018.12.10-02.11.40:074][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082106s)
+[2018.12.10-02.11.40:075][405]LogAIModule: Creating AISystem for world Luke_Autumn
+[2018.12.10-02.11.40:076][405]LogPlayLevel: PIE: World Init took: (0.001162s)
+[2018.12.10-02.11.40:076][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn to /Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn (0.083458s)
+[2018.12.10-02.11.40:133][405]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.10-02.11.40:149][405]LogInit: FAudioDevice initialized.
+[2018.12.10-02.11.40:179][405]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.10-02.11.40:189][405]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn up for play (max tick rate 0) at 2018.12.10-02.11.40
+[2018.12.10-02.11.40:191][405]LogWorld: Bringing up level for play took: 0.010708
+[2018.12.10-02.11.40:203][405]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.12.10-02.11.40:204][405]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn:PersistentLevel.FirstPersonCharacter_C_0.Mesh2P' Bone: 'lowerarm_l' 
+[2018.12.10-02.11.40:204][405]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn:PersistentLevel.FirstPersonCharacter_C_0.Mesh2P' Bone: 'hand_l' 
+[2018.12.10-02.11.40:204][405]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn:PersistentLevel.FirstPersonCharacter_C_0.Mesh2P' Bone: 'upperarm_l' 
+[2018.12.10-02.11.40:204][405]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn:PersistentLevel.FirstPersonCharacter_C_0.Mesh2P' Bone: 'spine_03' 
+[2018.12.10-02.11.40:205][405]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn:PersistentLevel.FirstPersonCharacter_C_0.Mesh2P' Bone: 'hand_r' 
+[2018.12.10-02.11.40:205][405]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn:PersistentLevel.FirstPersonCharacter_C_0.Mesh2P' Bone: 'lowerarm_r' 
+[2018.12.10-02.11.40:205][405]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn:PersistentLevel.FirstPersonCharacter_C_0.Mesh2P' Bone: 'upperarm_r' 
+[2018.12.10-02.11.40:205][405]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn:PersistentLevel.FirstPersonCharacter_C_0.Sphere' 
+[2018.12.10-02.11.40:206][405]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn 1.051
+[2018.12.10-02.11.40:207][405]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.Luke_Autumn' with GeneratedClass '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.Luke_Autumn'
+[2018.12.10-02.11.56:601][367]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.Luke_Autumn' with GeneratedClass '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.Luke_Autumn'
+[2018.12.10-02.11.56:601][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-02.11.56:641][367]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.10-02.11.56:642][367]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.Luke_Autumn' with GeneratedClass '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.Luke_Autumn'
+[2018.12.10-02.11.56:675][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-02.11.56:702][368]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2018.12.10-02.12.00:022][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.12.04:860][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.12.43:676][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.12.43:767][807]EditorErrors: New page: Actor attachment
+[2018.12.10-02.17.17:816][961]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 512X512)
+[2018.12.10-02.17.17:879][961]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2018.12.10-02.17.17:890][961]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2018.12.10-02.17.17:891][961]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2018.12.10-02.17.17:895][961]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2018.12.10-02.17.17:897][961]LogTexture: Display: Building textures: Texture2D_213 (BGRA8, 512X512)
+[2018.12.10-02.17.17:906][961]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2018.12.10-02.17.17:907][961]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2018.12.10-02.17.17:908][961]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2018.12.10-02.17.18:884][961]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Luke_Autumn_Auto4D724B13040D53BF27CA81CA5544020A0.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Autosaves/Game/FirstPersonBP/Maps/Luke_Autumn_Auto4.umap'
+[2018.12.10-02.17.18:891][961]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Luke_Autumn' took 1.163
+[2018.12.10-02.17.18:891][961]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.163
+[2018.12.10-02.21.24:503][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.21.29:995][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.21.42:985][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.21.55:022][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-02.21.59:029][369]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.10-02.22.05:161][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.22.07:166][309]LogEditorActor: Deleted Actor: SkyLight
+[2018.12.10-02.22.07:199][309]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2018.12.10-02.22.34:697][524]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-02.23.02:064][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.23.02:138][ 50]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.10-02.23.03:231][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.23.38:658][126]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.10-02.23.43:516][625]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.10-02.23.48:621][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.24.33:182][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.25.17:994][ 96]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.10-02.26.17:845][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.26.28:748][474]Cmd: TRANSACTION UNDO
+[2018.12.10-02.26.28:748][474]LogEditorTransaction: Undo Rotate Actors
+[2018.12.10-02.26.41:294][956]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-02.26.53:055][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.26.53:176][348]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.10-02.26.56:523][745]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-02.27.05:035][747]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.10-02.27.13:368][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.27.22:348][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.27.26:432][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.27.28:096][355]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Luke_Autumn403801FE4B5F04E60862A087D14A08B6.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Content/FirstPersonBP/Maps/Luke_Autumn.umap'
+[2018.12.10-02.27.30:247][578]LogAIModule: Creating AISystem for world Arthur_Summer
+[2018.12.10-02.27.30:275][578]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer
+[2018.12.10-02.27.30:302][578]Cmd: MAP LOAD FILE="../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Content/FirstPersonBP/Maps/Arthur_Summer.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.10-02.27.30:302][578]LightingResults: New page: Lighting Build
+[2018.12.10-02.27.30:303][578]LoadErrors: New page: Loading map: Arthur_Summer.umap
+[2018.12.10-02.27.30:307][578]MapCheck: New page: Map Check
+[2018.12.10-02.27.30:307][578]LightingResults: New page: Lighting Build
+[2018.12.10-02.27.30:637][578]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'lowerarm_l' 
+[2018.12.10-02.27.30:637][578]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'hand_l' 
+[2018.12.10-02.27.30:637][578]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'upperarm_l' 
+[2018.12.10-02.27.30:637][578]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'spine_03' 
+[2018.12.10-02.27.30:637][578]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'hand_r' 
+[2018.12.10-02.27.30:637][578]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'lowerarm_r' 
+[2018.12.10-02.27.30:637][578]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'upperarm_r' 
+[2018.12.10-02.27.30:637][578]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Sphere' 
+[2018.12.10-02.27.30:639][578]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'lowerarm_l' 
+[2018.12.10-02.27.30:639][578]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'hand_l' 
+[2018.12.10-02.27.30:639][578]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'upperarm_l' 
+[2018.12.10-02.27.30:639][578]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'spine_03' 
+[2018.12.10-02.27.30:639][578]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'hand_r' 
+[2018.12.10-02.27.30:639][578]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'lowerarm_r' 
+[2018.12.10-02.27.30:639][578]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'upperarm_r' 
+[2018.12.10-02.27.30:639][578]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Sphere' 
+[2018.12.10-02.27.30:643][578]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.10-02.27.30:695][578]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.10-02.27.30:696][578]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.154ms to complete.
+[2018.12.10-02.27.30:696][578]LogFileHelpers: Loading map 'Arthur_Summer' took 0.394
+[2018.12.10-02.27.39:947][427]LogEditorActor: Deleted Actor: SkyLight
+[2018.12.10-02.27.39:972][427]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2018.12.10-02.28.25:766][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.29.03:659][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.29.23:589][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.29.26:271][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.29.39:810][419]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.10-02.29.42:218][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.29.47:591][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.29.55:264][104]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.10-02.30.02:116][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.30.16:717][134]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2018.12.10-02.30.16:785][134]LogEditorActor: Deleted 1 Actors (0.142 secs)
+[2018.12.10-02.30.20:951][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.30.43:919][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-02.30.46:345][344]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.10-02.30.47:444][469]Cmd: TRANSACTION UNDO
+[2018.12.10-02.30.47:444][469]LogEditorTransaction: Undo Edit Zenith Color
+[2018.12.10-02.30.48:094][523]Cmd: TRANSACTION UNDO
+[2018.12.10-02.30.48:094][523]LogEditorTransaction: Undo Edit Zenith Color
+[2018.12.10-02.30.48:500][569]Cmd: TRANSACTION UNDO
+[2018.12.10-02.30.48:500][569]LogEditorTransaction: Undo Create Actors
+[2018.12.10-02.30.48:875][609]Cmd: TRANSACTION UNDO
+[2018.12.10-02.30.48:875][609]LogEditorTransaction: Undo Delete selection
+[2018.12.10-02.31.17:388][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.31.23:181][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.31.24:808][828]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-02.31.32:919][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.31.33:010][793]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.10-02.31.33:929][901]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-02.31.38:743][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.32.04:258][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.32.04:344][293]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.10-02.32.06:812][508]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-02.32.13:600][298]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.10-02.32.14:669][425]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-02.32.53:478][808]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.10-02.33.07:934][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.33.20:546][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.33.48:926][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.34.01:345][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.35.17:308][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.35.49:869][772]Cmd: TRANSACTION UNDO
+[2018.12.10-02.35.49:869][772]LogEditorTransaction: Undo Rotate Actors
+[2018.12.10-02.35.50:175][801]Cmd: TRANSACTION UNDO
+[2018.12.10-02.35.50:175][801]LogEditorTransaction: Undo Rotate Actors
+[2018.12.10-02.35.50:617][844]Cmd: TRANSACTION UNDO
+[2018.12.10-02.35.50:617][844]LogEditorTransaction: Undo Rotate Actors
+[2018.12.10-02.35.52:506][ 55]Cmd: TRANSACTION UNDO
+[2018.12.10-02.35.52:507][ 55]LogEditorTransaction: Undo Rotate Actors
+[2018.12.10-02.35.52:901][102]Cmd: TRANSACTION UNDO
+[2018.12.10-02.35.52:901][102]LogEditorTransaction: Undo Edit Light Shaft Occlusion
+[2018.12.10-02.35.55:683][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.36.08:805][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.36.16:686][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.36.16:776][758]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.10-02.36.19:977][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.36.42:379][314]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.12.10-02.36.47:714][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.37.02:123][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.37.28:744][161]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2018.12.10-02.37.28:845][161]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-02.37.29:702][253]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.12.10-02.37.32:090][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.37.38:658][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.38.01:234][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.38.26:873][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.38.36:506][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.38.48:473][135]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-02.39.02:043][794]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.39.09:373][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.39.09:433][655]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.10-02.39.11:384][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.39.33:004][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.39.33:104][450]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.10-02.39.33:127][450]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.Arthur_Summer' with GeneratedClass '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.Arthur_Summer'
+[2018.12.10-02.39.33:127][450]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.10-02.39.33:127][450]PIE: New page: PIE session: Arthur_Summer (10 Dec 2018 02:39:33)
+[2018.12.10-02.39.33:127][450]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer
+[2018.12.10-02.39.33:210][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082195s)
+[2018.12.10-02.39.33:210][450]LogAIModule: Creating AISystem for world Arthur_Summer
+[2018.12.10-02.39.33:211][450]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2018.12.10-02.39.33:211][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer to /Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer (0.083287s)
+[2018.12.10-02.39.33:291][450]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.10-02.39.33:308][450]LogInit: FAudioDevice initialized.
+[2018.12.10-02.39.33:342][450]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.10-02.39.33:349][450]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'lowerarm_l' 
+[2018.12.10-02.39.33:349][450]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'hand_l' 
+[2018.12.10-02.39.33:349][450]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'upperarm_l' 
+[2018.12.10-02.39.33:349][450]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'spine_03' 
+[2018.12.10-02.39.33:349][450]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'hand_r' 
+[2018.12.10-02.39.33:349][450]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'lowerarm_r' 
+[2018.12.10-02.39.33:349][450]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'upperarm_r' 
+[2018.12.10-02.39.33:349][450]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Sphere' 
+[2018.12.10-02.39.33:349][450]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer up for play (max tick rate 0) at 2018.12.10-02.39.33
+[2018.12.10-02.39.33:350][450]LogWorld: Bringing up level for play took: 0.006942
+[2018.12.10-02.39.33:362][450]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.12.10-02.39.33:363][450]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_C_0.Mesh2P' Bone: 'lowerarm_l' 
+[2018.12.10-02.39.33:363][450]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_C_0.Mesh2P' Bone: 'hand_l' 
+[2018.12.10-02.39.33:363][450]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_C_0.Mesh2P' Bone: 'upperarm_l' 
+[2018.12.10-02.39.33:363][450]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_C_0.Mesh2P' Bone: 'spine_03' 
+[2018.12.10-02.39.33:363][450]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_C_0.Mesh2P' Bone: 'hand_r' 
+[2018.12.10-02.39.33:363][450]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_C_0.Mesh2P' Bone: 'lowerarm_r' 
+[2018.12.10-02.39.33:363][450]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_C_0.Mesh2P' Bone: 'upperarm_r' 
+[2018.12.10-02.39.33:363][450]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_C_0.Sphere' 
+[2018.12.10-02.39.33:365][450]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer 0.209
+[2018.12.10-02.39.33:365][450]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.Arthur_Summer' with GeneratedClass '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.Arthur_Summer'
+[2018.12.10-02.40.08:453][652]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.Arthur_Summer' with GeneratedClass '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.Arthur_Summer'
+[2018.12.10-02.40.08:454][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-02.40.08:490][652]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.10-02.40.08:490][652]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.Arthur_Summer' with GeneratedClass '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Arthur_Summer.Arthur_Summer:PersistentLevel.Arthur_Summer'
+[2018.12.10-02.40.08:524][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.10-02.40.08:580][654]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2018.12.10-02.40.29:550][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.41.18:672][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.41.40:114][711]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-02.41.41:043][711]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Arthur_Summer_Auto581DEB45F4B9B91BBDEC58AACEBD32BD0.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Autosaves/Game/FirstPersonBP/Maps/Arthur_Summer_Auto5.umap'
+[2018.12.10-02.41.41:047][711]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Arthur_Summer' took 0.908
+[2018.12.10-02.41.41:047][711]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.908
+[2018.12.10-02.41.48:182][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-02.42.08:980][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.42.33:696][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.42.33:790][996]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.10-02.42.37:647][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.42.59:436][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.42.59:519][755]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.10-02.43.14:585][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.43.22:550][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.43.36:717][415]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.10-02.43.38:211][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.43.56:265][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.44.03:500][936]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.10-02.44.05:419][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.44.15:849][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.44.23:419][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.44.31:716][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.44.50:788][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.45.09:787][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.46.05:369][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.46.24:546][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.46.37:532][190]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.10-02.46.38:869][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.47.28:203][373]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.47.41:016][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.48.08:850][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.48.26:251][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.48.55:704][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.49.11:064][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.49.18:206][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.49.32:582][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.49.56:685][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.50.12:899][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.50.23:130][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.50.44:339][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.50.53:641][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.51.12:717][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.51.24:230][946]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.12.10-02.51.25:900][ 64]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.12.10-02.51.48:057][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.51.51:160][917]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Arthur_Summer_Auto69EA3C1BE49B00720A70BC18CC2CBBDAE.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Autosaves/Game/FirstPersonBP/Maps/Arthur_Summer_Auto6.umap'
+[2018.12.10-02.51.51:163][917]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Arthur_Summer' took 0.908
+[2018.12.10-02.51.51:163][917]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.908
+[2018.12.10-02.52.29:259][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.52.40:754][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.52.45:182][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.53.24:996][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.53.30:643][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.53.49:917][825]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.12.10-02.53.50:884][905]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.12.10-02.53.51:607][965]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.12.10-02.53.52:441][ 23]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.12.10-02.54.00:671][792]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.12.10-02.54.08:610][544]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-02.54.10:652][708]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-02.54.17:563][340]LogClient: High resolution screenshot saved as C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Screenshots/Windows/HighresScreenshot00000.png
+[2018.12.10-02.54.17:572][340]LogRenderer: Reallocating scene render targets to support 1180x900 Format 10 NumSamples 1 (Frame:134391).
+[2018.12.10-02.54.46:017][689]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2018.12.10-02.54.47:458][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.55.39:616][983]LogClient: High resolution screenshot saved as C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Screenshots/Windows/HighresScreenshot00001.png
+[2018.12.10-02.55.39:624][984]LogRenderer: Reallocating scene render targets to support 1180x900 Format 10 NumSamples 1 (Frame:139964).
+[2018.12.10-02.57.31:715][718]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2018.12.10-02.58.08:307][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.58.19:878][522]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-02.58.21:399][645]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.10-02.58.23:473][832]LogClient: High resolution screenshot saved as C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Screenshots/Windows/HighresScreenshot00002.png
+[2018.12.10-02.58.23:481][833]LogRenderer: Reallocating scene render targets to support 1180x900 Format 10 NumSamples 1 (Frame:145540).
+[2018.12.10-02.58.48:013][295]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2018.12.10-02.58.52:071][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.10-02.59.11:302][654]LogClient: High resolution screenshot saved as C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Screenshots/Windows/HighresScreenshot00003.png
+[2018.12.10-02.59.11:310][655]LogRenderer: Reallocating scene render targets to support 1180x900 Format 10 NumSamples 1 (Frame:148309).
+[2018.12.10-03.00.10:638][ 80]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2018.12.10-03.00.13:164][245]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Arthur_Summer9A7691E042736B43964F4ABCF76D3808.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Content/FirstPersonBP/Maps/Arthur_Summer.umap'
