@@ -1,0 +1,854 @@
+﻿Log file open, 12/12/18 00:05:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Module_8_Final_Build
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.237241
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.068s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Programs/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.12-00.05.56:129][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.12-00.05.56:129][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.12-00.05.56:129][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.12-00.05.56:129][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.12-00.05.56:129][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.12-00.05.56:129][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.12-00.05.56:136][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.12-00.05.56:136][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.12-00.05.56:137][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.12-00.05.56:137][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-00.05.56:137][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.12-00.05.56:137][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.12-00.05.56:137][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.12-00.05.56:137][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.12-00.05.56:137][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.12-00.05.56:137][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.12-00.05.56:137][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.12-00.05.56:137][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.12-00.05.56:137][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.12-00.05.56:137][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.12-00.05.56:137][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.12-00.05.56:137][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.12-00.05.56:137][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.12-00.05.56:137][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-00.05.56:137][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.12-00.05.56:137][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.12-00.05.56:137][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.12-00.05.56:137][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.12-00.05.56:146][  0]LogHAL: Display: Platform has ~ 16 GB [17138704384 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.12-00.05.56:146][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.12-00.05.56:146][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.12-00.05.56:146][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-00.05.56:146][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.12-00.05.56:146][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.12-00.05.56:146][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-00.05.56:146][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.12-00.05.56:146][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-00.05.56:146][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.12-00.05.56:146][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.12-00.05.56:146][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.12-00.05.56:146][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.12-00.05.56:146][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.12-00.05.56:146][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.12-00.05.56:146][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.12-00.05.56:146][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.12-00.05.56:146][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.12-00.05.56:146][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.12-00.05.56:146][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.12-00.05.56:146][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.12-00.05.56:146][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.12-00.05.56:146][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.12-00.05.56:146][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.12-00.05.56:146][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.12-00.05.56:146][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.12-00.05.56:146][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.12-00.05.56:146][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-00.05.56:146][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.12-00.05.56:146][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.12-00.05.56:147][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.12-00.05.56:147][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.12-00.05.56:147][  0]LogInit: Computer: MAEJRKIN-PC
+[2018.12.12-00.05.56:147][  0]LogInit: User: arthu
+[2018.12.12-00.05.56:147][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.12.12-00.05.56:147][  0]LogInit: High frequency timer resolution =3.515628 MHz
+[2018.12.12-00.05.56:148][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.12.12-00.05.56:148][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.12-00.05.56:148][  0]LogMemory: Process Physical Memory: 102.65 MB used, 102.65 MB peak
+[2018.12.12-00.05.56:148][  0]LogMemory: Process Virtual Memory: 85.11 MB used, 85.11 MB peak
+[2018.12.12-00.05.56:148][  0]LogMemory: Physical Memory: 6967.40 MB used,  9377.34 MB free, 16344.74 MB total
+[2018.12.12-00.05.56:148][  0]LogMemory: Virtual Memory: 4637.64 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2018.12.12-00.05.56:161][  0]LogInit: Using OS detected language (en-GB).
+[2018.12.12-00.05.56:161][  0]LogInit: Using OS detected locale (en-GB).
+[2018.12.12-00.05.56:162][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.12.12-00.05.56:496][  0]LogStreaming: Display: Took  0.335s to InitEngineTextLocalization.
+[2018.12.12-00.05.56:496][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.12-00.05.56:525][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.12-00.05.56:525][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.12-00.05.56:790][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.12-00.05.56:790][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.12-00.05.56:847][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.12.12-00.05.56:847][  0]LogD3D11RHI:       8079/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.12.12-00.05.56:849][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.12-00.05.56:849][  0]LogD3D11RHI:       0/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.12-00.05.56:849][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.12-00.05.56:854][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.12-00.05.56:854][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.12-00.05.56:854][  0]LogWindows: EnumDisplayDevices:
+[2018.12.12-00.05.56:855][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.12.12-00.05.56:855][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.12.12-00.05.56:855][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.12.12-00.05.56:855][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.12.12-00.05.56:855][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.12-00.05.56:855][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.12.12-00.05.56:855][  0]LogD3D11RHI:   Driver Version: 416.34 (internal:25.21.14.1634, unified:416.34)
+[2018.12.12-00.05.56:855][  0]LogD3D11RHI:      Driver Date: 10-10-2018
+[2018.12.12-00.05.56:855][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.12.12-00.05.56:888][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.12-00.05.56:918][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.12-00.05.57:227][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.12-00.05.57:236][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.12-00.05.57:246][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.12-00.05.57:257][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.12-00.05.57:266][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.12-00.05.57:276][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.12-00.05.57:286][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.12-00.05.57:296][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.12-00.05.57:300][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.12-00.05.57:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.05.57:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.05.57:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.05.57:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.05.57:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.05.57:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.05.57:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.05.57:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.05.57:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.05.57:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.05.57:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.05.57:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.05.57:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.05.57:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.05.57:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.05.57:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.05.57:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.05.57:358][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.05.57:359][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.12-00.05.57:413][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.12-00.05.57:413][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.12-00.05.57:431][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.12-00.05.57:431][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.12-00.05.57:441][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.12-00.05.57:450][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.12-00.05.57:460][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.12-00.05.57:470][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.12-00.05.57:505][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.12-00.05.57:505][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.12-00.05.57:505][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.12-00.05.57:546][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Intermediate/Shaders/WorkingDirectory/16496/).
+[2018.12.12-00.05.57:546][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/arthu/AppData/Local/Temp/UnrealShaderWorkingDir/7A0832734223E2F3A6794CA50D2AB6E6/'.
+[2018.12.12-00.05.57:547][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.12-00.05.57:547][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.12-00.05.57:547][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.12-00.05.57:979][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.12-00.05.58:024][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/arthu/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.12-00.05.58:024][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/arthu/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.12-00.05.58:024][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.12-00.05.58:024][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.12-00.05.58:024][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.12-00.05.58:024][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.12-00.05.58:035][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.12-00.05.58:035][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.12-00.05.58:035][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.12-00.05.58:047][  0]LogDerivedDataCache: Using Local data cache path C:/Users/arthu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.12-00.05.58:047][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.12-00.05.58:047][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.12-00.05.58:066][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.12-00.05.58:067][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.12-00.05.58:068][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.12-00.05.58:151][  0]LogAssetRegistry: FAssetRegistry took 0.0318 seconds to start up
+[2018.12.12-00.05.58:394][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.12-00.05.58:508][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.12-00.05.58:511][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.12-00.05.58:511][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.12-00.05.58:511][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.12-00.05.58:511][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.12-00.05.58:524][  0]LogNetVersion: Module_8_Final_Build 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 899348701)
+[2018.12.12-00.05.58:946][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.077822 seconds
+[2018.12.12-00.05.58:951][  0]LogUObjectArray: 39776 objects as part of root set at end of initial load.
+[2018.12.12-00.05.58:951][  0]LogUObjectAllocator: 6914880 out of 0 bytes used by permanent object pool.
+[2018.12.12-00.05.58:951][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.12-00.05.59:741][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.12-00.05.59:755][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.12-00.06.00:425][  0]SourceControl: Source control is disabled
+[2018.12.12-00.06.00:425][  0]SourceControl: Source control is disabled
+[2018.12.12-00.06.00:426][  0]SourceControl: Source control is disabled
+[2018.12.12-00.06.00:427][  0]SourceControl: Source control is disabled
+[2018.12.12-00.06.00:575][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.12-00.06.00:626][  0]LogOcInput: OculusInput pre-init called
+[2018.12.12-00.06.00:749][  0]LogEngine: Initializing Engine...
+[2018.12.12-00.06.00:749][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.12-00.06.00:750][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.12-00.06.00:750][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.12-00.06.00:750][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.12-00.06.00:750][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.12-00.06.00:946][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.12-00.06.00:954][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.12-00.06.00:966][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.12-00.06.00:981][  0]LogInit: FAudioDevice initialized.
+[2018.12.12-00.06.00:981][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.12-00.06.01:047][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/arthu/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.12-00.06.01:053][  0]LogInit: Texture streaming: Enabled
+[2018.12.12-00.06.01:063][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.12-00.06.01:072][  0]LogInit: Transaction tracking system initialized
+[2018.12.12-00.06.01:085][  0]BlueprintLog: New page: Editor Load
+[2018.12.12-00.06.01:129][  0]LocalizationService: Localization service is disabled
+[2018.12.12-00.06.01:487][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.12-00.06.01:487][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.12-00.06.01:487][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.12-00.06.01:487][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.12-00.06.01:487][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.12-00.06.01:487][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.12-00.06.01:487][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.12-00.06.01:514][  0]LogFileCache: Scanning file cache for directory 'C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Content/' took 0.02s
+[2018.12.12-00.06.01:574][  0]SourceControl: Source control is disabled
+[2018.12.12-00.06.01:574][  0]Cmd: MAP LOAD FILE="C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.12-00.06.01:574][  0]LogEditorServer: Warning: Can't find file 'C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.12.12-00.06.01:574][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.12-00.06.01:574][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.161ms to complete.
+[2018.12.12-00.06.01:575][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.001
+[2018.12.12-00.06.01:657][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.06.01:663][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.06.01:669][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.06.01:675][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.06.01:683][  0]LogSlate: Took 0.001554 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.12-00.06.01:686][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.12-00.06.01:733][  0]LogRenderer: Reallocating scene render targets to support 2556x1284 Format 10 NumSamples 1 (Frame:1).
+[2018.12.12-00.06.01:825][  0]LogLoad: (Engine Initialization) Total time: 7.35 seconds
+[2018.12.12-00.06.01:825][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.12-00.06.01:835][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.12-00.06.01:854][  0]LogAssetRegistry: Asset discovery search completed in 3.7250 seconds
+[2018.12.12-00.06.01:858][  0]LogCollectionManager: Loaded 0 collections in 0.000830 seconds
+[2018.12.12-00.06.01:880][  0]LogFileCache: Scanning file cache for directory 'C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Collections/' took 0.01s
+[2018.12.12-00.06.01:880][  0]LogFileCache: Scanning file cache for directory 'C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Content/Developers/arthu/Collections/' took 0.01s
+[2018.12.12-00.06.01:880][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.12.12-00.06.01:880][  0]LogFileCache: Scanning file cache for directory 'C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Content/Collections/' took 0.00s
+[2018.12.12-00.06.01:880][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000130 seconds (updated 0 objects)
+[2018.12.12-00.06.01:882][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.12-00.06.03:616][201]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-00.06.04:993][366]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-00.06.17:562][764]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.12-00.06.17:569][764]LogContentBrowser: Native class hierarchy populated in 0.0062 seconds. Added 2654 classes and 625 folders.
+[2018.12.12-00.06.17:574][764]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.12-00.06.17:576][764]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.06.17:576][764]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.06.17:577][764]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.06.17:578][764]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.06.17:578][764]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.06.17:579][764]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.06.17:579][764]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.06.17:580][764]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.06.17:580][764]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.06.17:581][764]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.06.17:581][764]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.06.17:581][764]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.06.17:582][764]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.06.17:582][764]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.06.17:583][764]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.06.17:583][764]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.06.17:584][764]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.06.17:584][764]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.06.17:585][764]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.06.17:585][764]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.06.17:586][764]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.06.17:586][764]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.06.17:587][764]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.06.17:587][764]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.06.17:587][764]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.06.17:588][764]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.06.17:627][764]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.12-00.06.17:631][764]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.12-00.08.09:735][ 74]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.12-00.08.09:785][ 74]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.12-00.08.09:790][ 74]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/MainMenu.MainMenu
+[2018.12.12-00.08.09:810][ 74]Cmd: MAP LOAD FILE="C:/Users/arthu/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Content/FirstPersonBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.12-00.08.09:810][ 74]LightingResults: New page: Lighting Build
+[2018.12.12-00.08.09:812][ 74]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 5 classes and 0 folders.
+[2018.12.12-00.08.09:812][ 74]LoadErrors: New page: Loading map: MainMenu.umap
+[2018.12.12-00.08.09:813][ 74]MapCheck: New page: Map Check
+[2018.12.12-00.08.09:813][ 74]LightingResults: New page: Lighting Build
+[2018.12.12-00.08.09:834][ 74]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.12-00.08.09:874][ 74]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.12-00.08.09:874][ 74]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.115ms to complete.
+[2018.12.12-00.08.09:874][ 74]LogFileHelpers: Loading map 'MainMenu' took 0.064
+[2018.12.12-00.08.13:697][529]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.12-00.08.13:706][529]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.12.12-00.08.13:908][529]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.12-00.08.13:967][529]PIE: New page: PIE session: MainMenu (12 Dec 2018 00:08:13)
+[2018.12.12-00.08.13:996][529]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.12.12-00.08.13:997][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001240s)
+[2018.12.12-00.08.13:998][529]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.12-00.08.13:998][529]LogPlayLevel: PIE: World Init took: (0.000499s)
+[2018.12.12-00.08.13:998][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.002026s)
+[2018.12.12-00.08.14:024][529]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.12-00.08.14:038][529]LogInit: FAudioDevice initialized.
+[2018.12.12-00.08.14:085][529]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.12-00.08.14:155][529]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.12.12-00.08.14
+[2018.12.12-00.08.14:155][529]LogWorld: Bringing up level for play took: 0.000394
+[2018.12.12-00.08.14:169][529]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.12.12-00.08.14:191][529]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2018.12.12-00.08.14:192][529]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu 0.647
+[2018.12.12-00.08.14:192][529]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.12.12-00.08.16:913][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.08.19:997][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.08.19:997][222]LogNet: Browse: /Game/FirstPersonBP/Maps/Jai_Spring
+[2018.12.12-00.08.19:997][222]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Jai_Spring
+[2018.12.12-00.08.20:627][222]LogAIModule: Creating AISystem for world Jai_Spring
+[2018.12.12-00.08.20:627][222]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.12-00.08.20:634][222]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Mesh2P' Bone: 'lowerarm_l' 
+[2018.12.12-00.08.20:634][222]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Mesh2P' Bone: 'hand_l' 
+[2018.12.12-00.08.20:634][222]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Mesh2P' Bone: 'upperarm_l' 
+[2018.12.12-00.08.20:634][222]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Mesh2P' Bone: 'spine_03' 
+[2018.12.12-00.08.20:634][222]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Mesh2P' Bone: 'hand_r' 
+[2018.12.12-00.08.20:634][222]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Mesh2P' Bone: 'lowerarm_r' 
+[2018.12.12-00.08.20:634][222]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Mesh2P' Bone: 'upperarm_r' 
+[2018.12.12-00.08.20:634][222]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Sphere' 
+[2018.12.12-00.08.20:635][222]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Mesh2P' Bone: 'lowerarm_l' 
+[2018.12.12-00.08.20:635][222]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Mesh2P' Bone: 'hand_l' 
+[2018.12.12-00.08.20:635][222]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Mesh2P' Bone: 'upperarm_l' 
+[2018.12.12-00.08.20:635][222]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Mesh2P' Bone: 'spine_03' 
+[2018.12.12-00.08.20:635][222]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Mesh2P' Bone: 'hand_r' 
+[2018.12.12-00.08.20:636][222]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Mesh2P' Bone: 'lowerarm_r' 
+[2018.12.12-00.08.20:636][222]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Mesh2P' Bone: 'upperarm_r' 
+[2018.12.12-00.08.20:636][222]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Sphere' 
+[2018.12.12-00.08.20:636][222]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring up for play (max tick rate 0) at 2018.12.12-00.08.20
+[2018.12.12-00.08.20:657][222]LogWorld: Bringing up level for play took: 0.029248
+[2018.12.12-00.08.20:673][222]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.12.12-00.08.20:675][222]LogLoad: Took 0.677349 seconds to LoadMap(/Game/FirstPersonBP/Maps/Jai_Spring)
+[2018.12.12-00.08.22:469][407]LogBlueprintUserMessages: [TreeHazard_2] ObsticleHit
+[2018.12.12-00.08.30:274][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.08.31:941][541]LogNet: Browse: /Game/FirstPersonBP/Maps/MainMenu
+[2018.12.12-00.08.31:941][541]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/MainMenu
+[2018.12.12-00.08.31:985][541]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.12.12-00.08.31:986][541]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000843s)
+[2018.12.12-00.08.31:986][541]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.12-00.08.31:986][541]LogPlayLevel: PIE: World Init took: (0.000388s)
+[2018.12.12-00.08.31:986][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001347s)
+[2018.12.12-00.08.31:986][541]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.12-00.08.31:987][541]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.12.12-00.08.31
+[2018.12.12-00.08.31:987][541]LogWorld: Bringing up level for play took: 0.000228
+[2018.12.12-00.08.31:987][541]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.12.12-00.08.31:988][541]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.12.12-00.08.31:988][541]LogLoad: Took 0.046894 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu)
+[2018.12.12-00.09.13:025][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-00.09.21:638][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-00.09.21:730][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.09.31:290][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.09.36:481][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.09.45:132][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.09.46:515][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.09.48:732][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.09.48:733][545]LogNet: Browse: /Game/FirstPersonBP/Maps/Luke_Autumn
+[2018.12.12-00.09.48:733][545]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Luke_Autumn
+[2018.12.12-00.09.48:973][545]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2018.12.12-00.09.48:973][545]LogTexture: Display: Building textures: Texture2D_121 (BGRA8, 256X512)
+[2018.12.12-00.09.48:973][545]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 512X512)
+[2018.12.12-00.09.48:973][545]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2018.12.12-00.09.48:973][545]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2018.12.12-00.09.48:973][545]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2018.12.12-00.09.48:973][545]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2018.12.12-00.09.48:973][545]LogTexture: Display: Building textures: Texture2D_237 (BGRA8, 512X128)
+[2018.12.12-00.09.48:973][545]LogTexture: Display: Building textures: Texture2D_217 (BGRA8, 256X512)
+[2018.12.12-00.09.48:973][545]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2018.12.12-00.09.48:973][545]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2018.12.12-00.09.48:973][545]LogTexture: Display: Building textures: Texture2D_213 (BGRA8, 512X512)
+[2018.12.12-00.09.48:974][545]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2018.12.12-00.09.49:218][545]LogTexture: Display: Building textures: WaveTexture (AutoDXT, 1024X1024)
+[2018.12.12-00.09.49:236][545]LogStaticMesh: Building static mesh CalmLargePlane...
+[2018.12.12-00.09.49:287][545]LogStaticMesh: Built static mesh [0.06s] /Game/LowPolyWater/Meshes/WaterPlane/Calm/CalmLargePlane.CalmLargePlane
+[2018.12.12-00.09.49:412][545]LogMaterial: Display: Missing cached shader map for material WaterMAT, compiling. 
+[2018.12.12-00.09.49:536][545]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.12.12-00.09.49:536][545]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.12.12-00.09.49:536][545]LogAIModule: Creating AISystem for world Luke_Autumn
+[2018.12.12-00.09.49:536][545]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.12-00.09.50:012][545]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn up for play (max tick rate 0) at 2018.12.12-00.09.50
+[2018.12.12-00.09.50:032][545]LogWorld: Bringing up level for play took: 0.494960
+[2018.12.12-00.09.50:046][545]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.12.12-00.09.50:046][545]LogLoad: Took 1.313050 seconds to LoadMap(/Game/FirstPersonBP/Maps/Luke_Autumn)
+[2018.12.12-00.09.51:279][682]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.12-00.09.51:389][695]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.12-00.10.04:642][279]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.12-00.10.04:925][312]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-00.10.08:000][671]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.12.12-00.10.08:008][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.10.08:077][671]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.12-00.10.08:078][671]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.12.12-00.10.08:100][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.10.08:123][672]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.12.12-00.10.09:457][830]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.12-00.10.11:687][ 95]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.12-00.10.11:700][ 95]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.12.12-00.10.11:700][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.12-00.10.11:700][ 95]PIE: New page: PIE session: MainMenu (12 Dec 2018 00:10:11)
+[2018.12.12-00.10.11:700][ 95]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.12.12-00.10.11:702][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001671s)
+[2018.12.12-00.10.11:702][ 95]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.12-00.10.11:702][ 95]LogPlayLevel: PIE: World Init took: (0.000606s)
+[2018.12.12-00.10.11:702][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.002396s)
+[2018.12.12-00.10.11:724][ 95]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.12-00.10.11:739][ 95]LogInit: FAudioDevice initialized.
+[2018.12.12-00.10.11:772][ 95]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.12-00.10.11:773][ 95]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.12.12-00.10.11
+[2018.12.12-00.10.11:773][ 95]LogWorld: Bringing up level for play took: 0.000483
+[2018.12.12-00.10.11:786][ 95]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.12.12-00.10.11:787][ 95]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu 0.241
+[2018.12.12-00.10.11:787][ 95]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.12.12-00.10.14:003][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.10.14:832][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.10.14:833][458]LogNet: Browse: /Game/FirstPersonBP/Maps/Arthur_Summer
+[2018.12.12-00.10.14:833][458]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Arthur_Summer
+[2018.12.12-00.10.15:084][458]LogAIModule: Creating AISystem for world Arthur_Summer
+[2018.12.12-00.10.15:084][458]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.12-00.10.15:095][458]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'lowerarm_l' 
+[2018.12.12-00.10.15:095][458]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'hand_l' 
+[2018.12.12-00.10.15:095][458]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'upperarm_l' 
+[2018.12.12-00.10.15:095][458]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'spine_03' 
+[2018.12.12-00.10.15:095][458]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'hand_r' 
+[2018.12.12-00.10.15:095][458]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'lowerarm_r' 
+[2018.12.12-00.10.15:095][458]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'upperarm_r' 
+[2018.12.12-00.10.15:095][458]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Sphere' 
+[2018.12.12-00.10.15:096][458]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'lowerarm_l' 
+[2018.12.12-00.10.15:096][458]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'hand_l' 
+[2018.12.12-00.10.15:096][458]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'upperarm_l' 
+[2018.12.12-00.10.15:096][458]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'spine_03' 
+[2018.12.12-00.10.15:096][458]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'hand_r' 
+[2018.12.12-00.10.15:096][458]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'lowerarm_r' 
+[2018.12.12-00.10.15:096][458]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'upperarm_r' 
+[2018.12.12-00.10.15:096][458]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Sphere' 
+[2018.12.12-00.10.15:097][458]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer up for play (max tick rate 0) at 2018.12.12-00.10.15
+[2018.12.12-00.10.15:138][458]LogWorld: Bringing up level for play took: 0.053155
+[2018.12.12-00.10.15:138][458]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.12.12-00.10.15:139][458]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.12.12-00.10.15:140][458]LogLoad: Took 0.306226 seconds to LoadMap(/Game/FirstPersonBP/Maps/Arthur_Summer)
+[2018.12.12-00.10.25:849][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.10.29:709][192]LogNet: Browse: /Game/FirstPersonBP/Maps/Arthur_Summer
+[2018.12.12-00.10.29:709][192]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Arthur_Summer
+[2018.12.12-00.10.29:885][192]LogAIModule: Creating AISystem for world Arthur_Summer
+[2018.12.12-00.10.29:885][192]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.12-00.10.29:893][192]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'lowerarm_l' 
+[2018.12.12-00.10.29:893][192]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'hand_l' 
+[2018.12.12-00.10.29:893][192]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'upperarm_l' 
+[2018.12.12-00.10.29:893][192]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'spine_03' 
+[2018.12.12-00.10.29:893][192]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'hand_r' 
+[2018.12.12-00.10.29:893][192]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'lowerarm_r' 
+[2018.12.12-00.10.29:893][192]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'upperarm_r' 
+[2018.12.12-00.10.29:893][192]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Sphere' 
+[2018.12.12-00.10.29:894][192]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'lowerarm_l' 
+[2018.12.12-00.10.29:894][192]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'hand_l' 
+[2018.12.12-00.10.29:894][192]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'upperarm_l' 
+[2018.12.12-00.10.29:894][192]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'spine_03' 
+[2018.12.12-00.10.29:894][192]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'hand_r' 
+[2018.12.12-00.10.29:894][192]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'lowerarm_r' 
+[2018.12.12-00.10.29:894][192]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Mesh2P' Bone: 'upperarm_r' 
+[2018.12.12-00.10.29:895][192]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer:PersistentLevel.FirstPersonCharacter_6.Sphere' 
+[2018.12.12-00.10.29:895][192]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Arthur_Summer.Arthur_Summer up for play (max tick rate 0) at 2018.12.12-00.10.29
+[2018.12.12-00.10.29:896][192]LogWorld: Bringing up level for play took: 0.009708
+[2018.12.12-00.10.29:896][192]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.12.12-00.10.29:896][192]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.12.12-00.10.29:897][192]LogLoad: Took 0.188341 seconds to LoadMap(/Game/FirstPersonBP/Maps/Arthur_Summer)
+[2018.12.12-00.10.40:499][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.10.41:358][566]LogNet: Browse: /Game/FirstPersonBP/Maps/MainMenu
+[2018.12.12-00.10.41:358][566]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/MainMenu
+[2018.12.12-00.10.41:384][566]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.12.12-00.10.41:385][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000972s)
+[2018.12.12-00.10.41:385][566]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.12-00.10.41:385][566]LogPlayLevel: PIE: World Init took: (0.000437s)
+[2018.12.12-00.10.41:385][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001539s)
+[2018.12.12-00.10.41:385][566]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.12-00.10.41:386][566]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.12.12-00.10.41
+[2018.12.12-00.10.41:386][566]LogWorld: Bringing up level for play took: 0.000236
+[2018.12.12-00.10.41:387][566]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.12.12-00.10.41:387][566]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.12.12-00.10.41:388][566]LogLoad: Took 0.029508 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu)
+[2018.12.12-00.11.02:217][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-00.11.02:359][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.11.40:642][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.11.40:999][675]LogPackageName: SearchForPackageOnDisk took   0.150s, but failed to resolve Artur_Winter.umap.
+[2018.12.12-00.11.40:999][675]LogLevel: Warning: WARNING: The map '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' does not exist.
+[2018.12.12-00.11.41:109][675]LogPackageName: SearchForPackageOnDisk took   0.109s, but failed to resolve Artur_Winter.umap.
+[2018.12.12-00.11.41:109][675]LogNet: Browse: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2018.12.12-00.11.41:126][675]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2018.12.12-00.11.41:126][675]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/FirstPersonBP/Maps/FirstPersonExampleMap'. Shutting down PIE.
+[2018.12.12-00.11.41:126][675]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/FirstPersonBP/Maps/FirstPersonExampleMap'. Shutting down PIE.
+[2018.12.12-00.11.41:126][675]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2018.12.12-00.11.41:126][675]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/FirstPersonBP/Maps/FirstPersonExampleMap'. Shutting down PIE.
+[2018.12.12-00.11.41:126][675]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/FirstPersonBP/Maps/FirstPersonExampleMap'. Shutting down PIE.
+[2018.12.12-00.11.41:127][675]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.12.12-00.11.41:127][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.11.41:156][675]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.12-00.11.41:157][675]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.12.12-00.11.41:176][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.11.41:231][676]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.12.12-00.11.46:813][345]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.12-00.11.46:825][345]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.12.12-00.11.46:825][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.12-00.11.46:825][345]PIE: New page: PIE session: MainMenu (12 Dec 2018 00:11:46)
+[2018.12.12-00.11.46:825][345]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.12.12-00.11.46:826][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000920s)
+[2018.12.12-00.11.46:827][345]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.12-00.11.46:827][345]LogPlayLevel: PIE: World Init took: (0.000428s)
+[2018.12.12-00.11.46:827][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001433s)
+[2018.12.12-00.11.46:852][345]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.12-00.11.46:865][345]LogInit: FAudioDevice initialized.
+[2018.12.12-00.11.46:894][345]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.12-00.11.46:895][345]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.12.12-00.11.46
+[2018.12.12-00.11.46:895][345]LogWorld: Bringing up level for play took: 0.000305
+[2018.12.12-00.11.46:906][345]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.12.12-00.11.46:907][345]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu -0.638
+[2018.12.12-00.11.46:907][345]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.12.12-00.11.48:716][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.11.51:151][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-00.11.51:267][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.11.51:268][868]LogNet: Browse: /Game/FirstPersonBP/Maps/Jai_Spring
+[2018.12.12-00.11.51:268][868]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/Jai_Spring
+[2018.12.12-00.11.51:366][868]LogAIModule: Creating AISystem for world Jai_Spring
+[2018.12.12-00.11.51:366][868]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.12-00.11.51:371][868]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Mesh2P' Bone: 'lowerarm_l' 
+[2018.12.12-00.11.51:371][868]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Mesh2P' Bone: 'hand_l' 
+[2018.12.12-00.11.51:371][868]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Mesh2P' Bone: 'upperarm_l' 
+[2018.12.12-00.11.51:371][868]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Mesh2P' Bone: 'spine_03' 
+[2018.12.12-00.11.51:371][868]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Mesh2P' Bone: 'hand_r' 
+[2018.12.12-00.11.51:371][868]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Mesh2P' Bone: 'lowerarm_r' 
+[2018.12.12-00.11.51:372][868]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Mesh2P' Bone: 'upperarm_r' 
+[2018.12.12-00.11.51:372][868]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Sphere' 
+[2018.12.12-00.11.51:373][868]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Mesh2P' Bone: 'lowerarm_l' 
+[2018.12.12-00.11.51:373][868]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Mesh2P' Bone: 'hand_l' 
+[2018.12.12-00.11.51:373][868]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Mesh2P' Bone: 'upperarm_l' 
+[2018.12.12-00.11.51:373][868]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Mesh2P' Bone: 'spine_03' 
+[2018.12.12-00.11.51:373][868]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Mesh2P' Bone: 'hand_r' 
+[2018.12.12-00.11.51:373][868]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Mesh2P' Bone: 'lowerarm_r' 
+[2018.12.12-00.11.51:373][868]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Mesh2P' Bone: 'upperarm_r' 
+[2018.12.12-00.11.51:373][868]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring:PersistentLevel.FirstPersonCharacter_C_1.Sphere' 
+[2018.12.12-00.11.51:374][868]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Jai_Spring.Jai_Spring up for play (max tick rate 0) at 2018.12.12-00.11.51
+[2018.12.12-00.11.51:374][868]LogWorld: Bringing up level for play took: 0.007399
+[2018.12.12-00.11.51:375][868]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.12.12-00.11.51:375][868]LogLoad: Took 0.106485 seconds to LoadMap(/Game/FirstPersonBP/Maps/Jai_Spring)
+[2018.12.12-00.11.53:544][127]LogBlueprintUserMessages: [TreeHazard_2] ObsticleHit
+[2018.12.12-00.12.02:468][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.12.03:494][312]LogNet: Browse: /Game/FirstPersonBP/Maps/MainMenu
+[2018.12.12-00.12.03:494][312]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/MainMenu
+[2018.12.12-00.12.03:517][312]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2018.12.12-00.12.03:518][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000815s)
+[2018.12.12-00.12.03:518][312]LogAIModule: Creating AISystem for world MainMenu
+[2018.12.12-00.12.03:518][312]LogPlayLevel: PIE: World Init took: (0.000392s)
+[2018.12.12-00.12.03:518][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001323s)
+[2018.12.12-00.12.03:518][312]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.12-00.12.03:519][312]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.12.12-00.12.03
+[2018.12.12-00.12.03:519][312]LogWorld: Bringing up level for play took: 0.000222
+[2018.12.12-00.12.03:519][312]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.12.12-00.12.03:519][312]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.12.12-00.12.03:520][312]LogLoad: Took 0.025948 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu)
+[2018.12.12-00.12.09:219][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-00.12.09:328][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.12.13:061][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.12.14:928][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-00.12.15:712][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.12.17:187][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.12.19:329][209]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.12.12-00.12.19:329][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.12.19:359][209]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.12-00.12.19:360][209]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.12.12-00.12.19:381][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.12.19:430][215]LogPlayLevel: Display: Destroying online subsystem :Context_3
