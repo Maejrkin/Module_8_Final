@@ -1,0 +1,1722 @@
+﻿Log file open, 12/12/18 00:11:13
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Module_8_Final_Build
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.338867
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.450s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=Chicken_Crisp -epicuserid=306e6f41d9324f7d9b752bc42faa6de5 -epiclocale=en-GB
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.12-00.11.15:026][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.12-00.11.15:026][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.12-00.11.15:026][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.12-00.11.15:026][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.12-00.11.15:026][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.12-00.11.15:026][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.12-00.11.15:026][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.12-00.11.15:026][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.12-00.11.15:026][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.12-00.11.15:026][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.12-00.11.15:026][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.12-00.11.15:026][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.12-00.11.15:026][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.12-00.11.15:026][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.12-00.11.15:026][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.12-00.11.15:026][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.12-00.11.15:026][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.12-00.11.15:026][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.12-00.11.15:026][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.12-00.11.15:026][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.12-00.11.15:026][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.12-00.11.15:026][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.12-00.11.15:026][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.12-00.11.15:027][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.12-00.11.15:027][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.12-00.11.15:027][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.12-00.11.15:027][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.12-00.11.15:027][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.12-00.11.15:027][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.12-00.11.15:027][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.12-00.11.15:027][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.12-00.11.15:027][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.12-00.11.15:027][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.12-00.11.15:027][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.12-00.11.15:027][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.12-00.11.15:027][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.12-00.11.15:030][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.12-00.11.15:030][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.12-00.11.15:031][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.12-00.11.15:031][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.12-00.11.15:031][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.12-00.11.15:091][  0]LogHAL: Display: Platform has ~ 16 GB [17033850880 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.12-00.11.15:091][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.12-00.11.15:091][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.12-00.11.15:092][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Scalability.ini]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.12-00.11.15:092][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.12-00.11.15:093][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.12-00.11.15:093][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Config/Windows/Engine.ini]
+[2018.12.12-00.11.15:093][  0]LogInit: Computer: LUKESPC
+[2018.12.12-00.11.15:093][  0]LogInit: User: Luke
+[2018.12.12-00.11.15:093][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.12-00.11.15:093][  0]LogInit: High frequency timer resolution =3.515622 MHz
+[2018.12.12-00.11.15:094][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.12-00.11.15:094][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.12-00.11.15:094][  0]LogMemory: Process Physical Memory: 102.47 MB used, 102.47 MB peak
+[2018.12.12-00.11.15:094][  0]LogMemory: Process Virtual Memory: 89.86 MB used, 89.86 MB peak
+[2018.12.12-00.11.15:094][  0]LogMemory: Physical Memory: 12657.04 MB used,  3587.71 MB free, 16244.75 MB total
+[2018.12.12-00.11.15:094][  0]LogMemory: Virtual Memory: 4651.08 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2018.12.12-00.11.15:127][  0]LogInit: Using OS detected language (en-GB).
+[2018.12.12-00.11.15:127][  0]LogInit: Using OS detected locale (en-GB).
+[2018.12.12-00.11.15:128][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.12.12-00.11.15:630][  0]LogStreaming: Display: Took  0.504s to InitEngineTextLocalization.
+[2018.12.12-00.11.15:631][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.12-00.11.15:836][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.12-00.11.15:836][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.12-00.11.23:514][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2018.12.12-00.11.23:514][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.12-00.11.23:605][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.12.12-00.11.23:605][  0]LogD3D11RHI:       4043/0/8122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.12-00.11.23:615][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.12.12-00.11.23:615][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.12.12-00.11.23:618][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.12-00.11.23:619][  0]LogD3D11RHI:       0/0/8122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.12-00.11.23:619][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.12-00.11.23:629][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.12-00.11.23:630][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.12-00.11.23:630][  0]LogWindows: EnumDisplayDevices:
+[2018.12.12-00.11.23:630][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.12.12-00.11.23:630][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.12.12-00.11.23:631][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.12.12-00.11.23:631][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.12.12-00.11.23:632][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.12.12-00.11.23:632][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.12.12-00.11.23:632][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.12.12-00.11.23:633][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.12.12-00.11.23:633][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.12.12-00.11.23:633][  0]LogD3D11RHI:   Driver Version: 416.81 (internal:25.21.14.1681, unified:416.81)
+[2018.12.12-00.11.23:633][  0]LogD3D11RHI:      Driver Date: 11-2-2018
+[2018.12.12-00.11.23:633][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2018.12.12-00.11.23:685][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.12-00.11.23:733][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.12-00.11.24:708][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.12-00.11.24:731][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.12-00.11.24:746][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.12-00.11.24:762][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.12-00.11.24:817][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.12-00.11.24:839][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.12-00.11.24:856][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.12-00.11.24:873][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.12-00.11.24:882][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.12-00.11.25:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.11.25:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.11.25:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.11.25:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.11.25:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.11.25:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.11.25:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.11.25:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.11.25:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.11.25:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.11.25:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.11.25:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.11.25:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.11.25:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.11.25:009][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.11.25:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.11.25:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.11.25:010][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.12-00.11.25:012][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.12-00.11.25:322][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.12-00.11.25:322][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.12-00.11.25:354][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.12-00.11.25:354][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.12-00.11.25:369][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.12-00.11.25:384][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.12-00.11.25:398][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.12-00.11.25:447][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.12-00.11.25:503][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.12-00.11.25:503][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.12-00.11.25:503][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.12-00.11.25:646][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Intermediate/Shaders/WorkingDirectory/3344/).
+[2018.12.12-00.11.25:647][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Luke/AppData/Local/Temp/UnrealShaderWorkingDir/DBFDB696425977C5883CA59848A62A53/'.
+[2018.12.12-00.11.25:650][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.12-00.11.25:650][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.12-00.11.25:650][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.12-00.11.34:028][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.12-00.11.34:533][  0]LogDerivedDataCache: Loaded boot cache 0.50s 71MB C:/Users/Luke/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.12-00.11.34:533][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Luke/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.12-00.11.34:533][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.12-00.11.34:533][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.12-00.11.34:533][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.12-00.11.34:533][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.12-00.11.34:547][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.12-00.11.34:547][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.12-00.11.34:547][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.12-00.11.34:560][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Luke/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.12-00.11.34:560][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.12-00.11.34:560][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.12-00.11.34:592][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.12-00.11.34:593][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.12-00.11.34:719][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.12-00.11.37:774][  0]LogAssetRegistry: FAssetRegistry took 0.0356 seconds to start up
+[2018.12.12-00.11.38:157][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.12-00.11.38:411][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.12-00.11.38:418][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.12-00.11.38:418][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.12-00.11.38:418][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.12-00.11.38:418][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.12-00.11.38:440][  0]LogNetVersion: Module_8_Final_Build 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 899348701)
+[2018.12.12-00.11.39:101][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.127714 seconds
+[2018.12.12-00.11.39:109][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.12-00.11.39:109][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2018.12.12-00.11.39:109][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.12-00.12.41:129][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.12-00.12.41:143][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.12-00.14.41:910][  0]SourceControl: Source control is disabled
+[2018.12.12-00.14.41:910][  0]SourceControl: Source control is disabled
+[2018.12.12-00.14.41:913][  0]SourceControl: Source control is disabled
+[2018.12.12-00.14.41:914][  0]SourceControl: Source control is disabled
+[2018.12.12-00.14.42:415][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.12-00.14.42:748][  0]LogOcInput: OculusInput pre-init called
+[2018.12.12-00.14.43:764][  0]LogEngine: Initializing Engine...
+[2018.12.12-00.14.43:771][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2018.12.12-00.14.43:890][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.12-00.14.43:890][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.12-00.14.43:890][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.12-00.14.43:890][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.12-00.14.44:906][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.12-00.14.44:930][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.12-00.14.44:968][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.12-00.14.44:998][  0]LogInit: FAudioDevice initialized.
+[2018.12.12-00.14.44:998][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.12-00.14.45:426][  0]LogDerivedDataCache: Saved boot cache 0.43s 71MB C:/Users/Luke/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.12-00.14.45:443][  0]LogInit: Texture streaming: Enabled
+[2018.12.12-00.14.45:471][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.12-00.14.45:533][  0]LogInit: Transaction tracking system initialized
+[2018.12.12-00.14.45:576][  0]BlueprintLog: New page: Editor Load
+[2018.12.12-00.14.45:887][  0]LocalizationService: Localization service is disabled
+[2018.12.12-00.14.48:738][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.12-00.14.48:738][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.12-00.14.48:945][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Content/' took 0.27s
+[2018.12.12-00.14.48:945][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.12-00.14.48:945][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.12-00.14.48:945][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.12-00.14.48:945][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.12-00.14.48:945][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.12-00.14.53:289][  0]SourceControl: Source control is disabled
+[2018.12.12-00.14.53:289][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.12-00.14.53:289][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.12.12-00.14.53:289][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.12-00.14.53:289][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.169ms to complete.
+[2018.12.12-00.14.53:290][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.001
+[2018.12.12-00.15.00:453][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.15.00:588][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.15.00:597][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.15.00:608][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-00.15.01:232][  0]LogCollectionManager: Loaded 0 collections in 0.003863 seconds
+[2018.12.12-00.15.01:953][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Collections/' took 0.01s
+[2018.12.12-00.15.01:953][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Content/Developers/Luke/Collections/' took 0.01s
+[2018.12.12-00.15.01:953][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Content/Collections/' took 0.01s
+[2018.12.12-00.15.01:953][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.12-00.15.02:070][  0]LogContentBrowser: Native class hierarchy populated in 0.0776 seconds. Added 2651 classes and 620 folders.
+[2018.12.12-00.15.02:587][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.12-00.15.03:139][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.15.04:027][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.15.04:534][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.15.04:916][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.15.05:121][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.15.05:156][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.15.05:203][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.15.05:237][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.15.05:273][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.15.05:333][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.15.05:378][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.15.05:453][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.15.05:488][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.15.05:530][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.15.05:608][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.15.05:616][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.15.05:715][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.15.05:989][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.15.05:999][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.15.06:038][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.15.06:212][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.15.06:282][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.15.06:460][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.15.06:769][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.15.06:799][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.15.06:879][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.12-00.15.12:312][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.12-00.15.12:781][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.12.12-00.15.15:825][  0]LogSlate: Took 0.000790 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.12-00.15.15:829][  0]LogSlate: Took 0.000711 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.12-00.15.16:119][  0]LogSlate: Took 0.073156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.12-00.15.18:443][  0]LogRenderer: Reallocating scene render targets to support 1180x652 Format 10 NumSamples 1 (Frame:1).
+[2018.12.12-00.15.24:418][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.12-00.15.24:418][  0]LogLoad: (Engine Initialization) Total time: 257.20 seconds
+[2018.12.12-00.15.24:418][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.12-00.15.24:428][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.12-00.15.25:057][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.12-00.15.27:569][  2]LogSlate: Took 0.491771 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.12-00.15.28:112][  4]LogAssetRegistry: Asset discovery search completed in 230.3597 seconds
+[2018.12.12-00.15.28:113][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.12-00.15.28:113][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000038 seconds (updated 0 objects)
+[2018.12.12-00.15.29:668][  4]LogSlate: Took 0.000466 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.12-00.15.38:395][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-00.39.06:345][341]LogAIModule: Creating AISystem for world Luke_Autumn
+[2018.12.12-00.39.07:336][341]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn
+[2018.12.12-00.39.07:860][341]Cmd: MAP LOAD FILE="../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Content/FirstPersonBP/Maps/Luke_Autumn.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.12-00.39.07:862][341]LightingResults: New page: Lighting Build
+[2018.12.12-00.39.08:118][341]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2018.12.12-00.39.08:119][341]LoadErrors: New page: Loading map: Luke_Autumn.umap
+[2018.12.12-00.39.08:205][341]MapCheck: New page: Map Check
+[2018.12.12-00.39.08:205][341]LightingResults: New page: Lighting Build
+[2018.12.12-00.39.34:271][341]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.12-00.39.34:570][341]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.12-00.39.34:571][341]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.183ms to complete.
+[2018.12.12-00.39.34:571][341]LogFileHelpers: Loading map 'Luke_Autumn' took 26.751
+[2018.12.12-00.40.24:661][489]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (49.061 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.12.12-01.16.01:644][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-01.16.06:611][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-01.16.29:428][403]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform11)
+[2018.12.12-01.22.14:389][259]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-01.22.40:423][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-01.22.43:917][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-01.22.44:336][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-01.22.44:859][517]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint8)
+[2018.12.12-01.22.45:216][554]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint8)
+[2018.12.12-01.22.55:561][767]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform11)
+[2018.12.12-01.23.04:539][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-01.23.05:414][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-01.23.05:806][960]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint8)
+[2018.12.12-01.23.08:719][300]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform15)
+[2018.12.12-01.23.13:710][865]LogEditorViewport: Clicking on Actor (CTRL LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint12)
+[2018.12.12-01.23.25:369][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-01.23.52:276][203]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Luke_Autumn_Auto1547F17A144828892640D478B05AB88F3.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Autosaves/Game/FirstPersonBP/Maps/Luke_Autumn_Auto1.umap'
+[2018.12.12-01.23.52:313][203]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Luke_Autumn' took 2.458
+[2018.12.12-01.23.52:313][203]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.458
+[2018.12.12-01.28.15:712][196]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform12)
+[2018.12.12-01.28.17:836][441]LogEditorViewport: Clicking on Actor (CTRL LMB): DissappearingPlatform_C (DissappearingPlatform12)
+[2018.12.12-01.28.19:936][685]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform12)
+[2018.12.12-01.28.21:850][906]LogEditorViewport: Clicking on Actor (CTRL LMB): DissappearingPlatform_C (DissappearingPlatform12)
+[2018.12.12-01.28.22:988][ 35]LogEditorViewport: Clicking on Actor (CTRL LMB): DissappearingPlatform_C (DissappearingPlatform12)
+[2018.12.12-01.28.23:557][ 98]LogEditorViewport: Clicking on Actor (CTRL LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint9)
+[2018.12.12-01.28.36:672][603]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform13)
+[2018.12.12-01.28.39:170][884]Cmd: DELETE
+[2018.12.12-01.28.39:170][884]Cmd: ACTOR DELETE
+[2018.12.12-01.28.39:479][884]LogEditorActor: Deleted Actor: DissappearingPlatform_C
+[2018.12.12-01.28.39:502][884]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2018.12.12-01.28.40:743][ 32]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint10)
+[2018.12.12-01.28.41:681][138]Cmd: DELETE
+[2018.12.12-01.28.41:681][138]Cmd: ACTOR DELETE
+[2018.12.12-01.28.41:705][138]LogEditorActor: Deleted Actor: Launch_Pad_Small_Blueprint_C
+[2018.12.12-01.28.41:725][138]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2018.12.12-01.28.42:740][259]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform14)
+[2018.12.12-01.28.45:843][621]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform14)
+[2018.12.12-01.28.48:171][888]LogEditorViewport: Clicking on Actor (CTRL LMB): DissappearingPlatform_C (DissappearingPlatform14)
+[2018.12.12-01.28.53:178][475]LogEditorViewport: Clicking on Actor (CTRL LMB): DissappearingPlatform_C (DissappearingPlatform14)
+[2018.12.12-01.28.56:084][815]LogEditorViewport: Clicking on Actor (CTRL LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint11)
+[2018.12.12-01.28.56:849][900]LogEditorViewport: Clicking on Actor (CTRL LMB): DissappearingPlatform_C (DissappearingPlatform14)
+[2018.12.12-01.29.10:546][473]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform9)
+[2018.12.12-01.29.13:152][779]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform9)
+[2018.12.12-01.29.14:239][906]Cmd: DELETE
+[2018.12.12-01.29.14:239][906]Cmd: ACTOR DELETE
+[2018.12.12-01.29.14:264][906]LogEditorActor: Deleted Actor: DissappearingPlatform_C
+[2018.12.12-01.29.14:286][906]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2018.12.12-01.29.14:796][967]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint6)
+[2018.12.12-01.29.15:259][ 17]Cmd: DELETE
+[2018.12.12-01.29.15:259][ 17]Cmd: ACTOR DELETE
+[2018.12.12-01.29.15:282][ 17]LogEditorActor: Deleted Actor: Launch_Pad_Small_Blueprint_C
+[2018.12.12-01.29.15:304][ 17]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2018.12.12-01.29.15:805][ 76]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform26)
+[2018.12.12-01.29.16:150][112]Cmd: DELETE
+[2018.12.12-01.29.16:150][112]Cmd: ACTOR DELETE
+[2018.12.12-01.29.16:177][112]LogEditorActor: Deleted Actor: DissappearingPlatform_C
+[2018.12.12-01.29.16:196][112]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2018.12.12-01.29.16:905][196]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-01.29.17:618][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-01.29.18:239][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-01.29.18:913][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-01.29.19:845][526]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-01.29.20:264][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-01.29.20:607][611]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.12.12-01.29.21:232][680]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.12.12-01.29.21:637][725]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.12.12-01.29.22:213][791]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.12.12-01.29.24:452][ 48]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.12.12-01.29.25:057][117]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.12.12-01.29.25:425][158]LogEditorViewport: Clicking on Actor (double click): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint5)
+[2018.12.12-01.29.25:907][212]Cmd: DELETE
+[2018.12.12-01.29.25:908][212]Cmd: ACTOR DELETE
+[2018.12.12-01.29.25:932][212]LogEditorActor: Deleted Actor: Launch_Pad_Small_Blueprint_C
+[2018.12.12-01.29.25:952][212]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2018.12.12-01.29.29:981][668]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform14)
+[2018.12.12-01.29.34:577][195]LogEditorViewport: Clicking on Actor (CTRL LMB): DissappearingPlatform_C (DissappearingPlatform14)
+[2018.12.12-01.29.37:331][493]LogEditorViewport: Clicking on Actor (CTRL LMB): DissappearingPlatform_C (DissappearingPlatform14)
+[2018.12.12-01.29.40:207][831]LogEditorViewport: Clicking on Actor (CTRL LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint11)
+[2018.12.12-01.29.47:944][700]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform17)
+[2018.12.12-01.30.18:054][184]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform18)
+[2018.12.12-01.30.20:169][421]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform18)
+[2018.12.12-01.30.22:775][725]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform18)
+[2018.12.12-01.30.24:581][934]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform18)
+[2018.12.12-01.30.27:559][282]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform18)
+[2018.12.12-01.30.28:699][414]LogEditorViewport: Clicking on Actor (CTRL LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint15)
+[2018.12.12-01.30.30:268][597]Cmd: DELETE
+[2018.12.12-01.30.30:268][597]Cmd: ACTOR DELETE
+[2018.12.12-01.30.30:293][597]LogEditorActor: Deleted Actor: DissappearingPlatform_C
+[2018.12.12-01.30.30:293][597]LogEditorActor: Deleted Actor: Launch_Pad_Small_Blueprint_C
+[2018.12.12-01.30.30:313][597]LogEditorActor: Deleted 2 Actors (0.045 secs)
+[2018.12.12-01.32.48:794][418]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-01.32.53:277][903]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform17)
+[2018.12.12-01.32.55:592][169]LogEditorViewport: Clicking on Actor (CTRL LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint14)
+[2018.12.12-01.32.56:532][276]LogEditorViewport: Clicking on Actor (CTRL LMB): DissappearingPlatform_C (DissappearingPlatform17)
+[2018.12.12-01.33.11:654][ 20]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform16)
+[2018.12.12-01.33.14:375][327]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint13)
+[2018.12.12-01.33.15:168][416]LogEditorViewport: Clicking on Actor (CTRL LMB): DissappearingPlatform_C (DissappearingPlatform16)
+[2018.12.12-01.34.16:208][744]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-01.34.21:232][300]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform5)
+[2018.12.12-01.34.22:923][486]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform5)
+[2018.12.12-01.34.23:491][549]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform5)
+[2018.12.12-01.34.24:125][622]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint)
+[2018.12.12-01.34.24:928][713]LogEditorViewport: Clicking on Actor (CTRL LMB): DissappearingPlatform_C (DissappearingPlatform5)
+[2018.12.12-01.34.35:286][843]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform6)
+[2018.12.12-01.34.37:476][ 97]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform6)
+[2018.12.12-01.34.38:215][181]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform6)
+[2018.12.12-01.34.38:801][248]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform6)
+[2018.12.12-01.34.39:593][340]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform6)
+[2018.12.12-01.34.40:620][460]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint4)
+[2018.12.12-01.34.41:479][558]LogEditorViewport: Clicking on Actor (CTRL LMB): DissappearingPlatform_C (DissappearingPlatform6)
+[2018.12.12-01.34.57:504][463]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform8)
+[2018.12.12-01.34.58:586][588]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform8)
+[2018.12.12-01.34.59:038][639]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform8)
+[2018.12.12-01.34.59:364][675]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.34.59:940][736]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.35.02:602][  7]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint2)
+[2018.12.12-01.35.09:118][735]LogEditorViewport: Clicking on Actor (CTRL LMB): DissappearingPlatform_C (DissappearingPlatform8)
+[2018.12.12-01.35.20:933][ 65]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform7)
+[2018.12.12-01.35.24:011][382]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform7)
+[2018.12.12-01.35.24:552][444]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform7)
+[2018.12.12-01.35.25:045][500]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform7)
+[2018.12.12-01.35.25:472][548]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform7)
+[2018.12.12-01.35.25:863][592]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform7)
+[2018.12.12-01.35.27:725][812]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint3)
+[2018.12.12-01.35.28:767][932]LogEditorViewport: Clicking on Actor (CTRL LMB): DissappearingPlatform_C (DissappearingPlatform7)
+[2018.12.12-01.36.37:918][998]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform14)
+[2018.12.12-01.36.39:559][166]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform14)
+[2018.12.12-01.36.40:188][238]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint11)
+[2018.12.12-01.36.41:928][440]LogEditorViewport: Clicking on Actor (CTRL LMB): DissappearingPlatform_C (DissappearingPlatform14)
+[2018.12.12-01.37.04:965][ 85]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform22)
+[2018.12.12-01.37.06:020][205]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform22)
+[2018.12.12-01.37.06:554][266]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform22)
+[2018.12.12-01.37.06:881][302]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.37.07:355][354]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.37.07:754][399]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.37.08:210][451]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.37.08:559][490]LogEditorViewport: Clicking on Actor (double click): DissappearingPlatform_C (DissappearingPlatform22)
+[2018.12.12-01.37.09:116][554]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform22)
+[2018.12.12-01.37.09:614][611]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform22)
+[2018.12.12-01.37.10:314][692]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform22)
+[2018.12.12-01.37.10:650][729]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.37.11:107][779]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.37.12:008][883]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.37.12:405][928]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.37.12:745][966]LogEditorViewport: Clicking on Actor (double click): DissappearingPlatform_C (DissappearingPlatform22)
+[2018.12.12-01.37.13:398][ 41]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint19)
+[2018.12.12-01.37.14:663][187]LogEditorViewport: Clicking on Actor (CTRL LMB): DissappearingPlatform_C (DissappearingPlatform22)
+[2018.12.12-01.37.47:248][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-01.37.48:247][ 60]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Luke_Autumn_Auto207C03020450F106FB9464E91BBA56BEC.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Autosaves/Game/FirstPersonBP/Maps/Luke_Autumn_Auto2.umap'
+[2018.12.12-01.37.48:252][ 60]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Luke_Autumn' took 0.988
+[2018.12.12-01.37.48:252][ 60]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.988
+[2018.12.12-01.38.07:543][322]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform23)
+[2018.12.12-01.38.08:699][438]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform23)
+[2018.12.12-01.38.09:331][511]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform23)
+[2018.12.12-01.38.09:758][559]LogEditorViewport: Clicking on Actor (double click): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint20)
+[2018.12.12-01.38.10:665][663]LogEditorViewport: Clicking on Actor (CTRL LMB): DissappearingPlatform_C (DissappearingPlatform23)
+[2018.12.12-01.38.23:752][187]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform21)
+[2018.12.12-01.38.24:587][282]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint18)
+[2018.12.12-01.38.24:992][324]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform21)
+[2018.12.12-01.38.25:938][432]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform21)
+[2018.12.12-01.38.26:408][485]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform21)
+[2018.12.12-01.38.26:810][530]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform21)
+[2018.12.12-01.38.27:443][603]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform21)
+[2018.12.12-01.38.27:755][637]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.38.28:338][702]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.38.28:768][751]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.38.30:235][922]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.38.30:679][972]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.38.31:226][ 35]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.38.31:649][ 83]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.38.32:033][126]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.38.32:435][171]LogEditorViewport: Clicking on Actor (double click): DissappearingPlatform_C (DissappearingPlatform21)
+[2018.12.12-01.38.33:236][264]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform21)
+[2018.12.12-01.38.34:057][360]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform21)
+[2018.12.12-01.40.00:322][668]Cmd: TRANSACTION UNDO
+[2018.12.12-01.40.00:322][668]LogEditorTransaction: Undo Move Actors
+[2018.12.12-01.40.02:178][874]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform21)
+[2018.12.12-01.40.02:606][922]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform21)
+[2018.12.12-01.40.03:037][971]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform21)
+[2018.12.12-01.40.03:440][ 16]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform21)
+[2018.12.12-01.40.03:783][ 54]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.40.04:512][136]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.40.04:845][173]LogEditorViewport: Clicking on Actor (double click): DissappearingPlatform_C (DissappearingPlatform21)
+[2018.12.12-01.40.06:554][373]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform21)
+[2018.12.12-01.40.06:881][409]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.40.07:407][467]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.40.07:708][500]LogEditorViewport: Clicking on Actor (double click): DissappearingPlatform_C (DissappearingPlatform21)
+[2018.12.12-01.40.08:262][563]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform21)
+[2018.12.12-01.40.08:612][602]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.40.09:018][646]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint18)
+[2018.12.12-01.40.09:141][655]LogEditorViewport: Clicking on Component (LMB): SceneComponent (DefaultSceneRoot)
+[2018.12.12-01.40.10:592][813]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform21)
+[2018.12.12-01.40.14:391][257]Cmd: TRANSACTION UNDO
+[2018.12.12-01.40.14:391][257]LogEditorTransaction: Undo Move Actors
+[2018.12.12-01.40.18:468][693]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint18)
+[2018.12.12-01.40.19:604][824]LogEditorViewport: Clicking on Actor (CTRL LMB): DissappearingPlatform_C (DissappearingPlatform21)
+[2018.12.12-01.40.49:935][379]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform19)
+[2018.12.12-01.40.51:345][543]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint16)
+[2018.12.12-01.40.52:855][719]LogEditorViewport: Clicking on Actor (CTRL LMB): DissappearingPlatform_C (DissappearingPlatform19)
+[2018.12.12-01.41.46:569][ 88]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform20)
+[2018.12.12-01.41.48:306][291]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform28)
+[2018.12.12-01.41.48:423][300]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.41.49:015][366]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.41.49:293][396]LogEditorViewport: Clicking on Actor (double click): DissappearingPlatform_C (DissappearingPlatform28)
+[2018.12.12-01.41.49:758][449]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform28)
+[2018.12.12-01.41.50:015][477]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.41.50:488][529]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.41.50:627][543]LogEditorViewport: Clicking on Actor (double click): DissappearingPlatform_C (DissappearingPlatform28)
+[2018.12.12-01.41.50:960][580]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform28)
+[2018.12.12-01.41.53:278][814]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform28)
+[2018.12.12-01.41.53:685][859]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform28)
+[2018.12.12-01.41.53:875][879]LogEditorViewport: Clicking on Actor (double click): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint17)
+[2018.12.12-01.41.56:220][117]LogEditorViewport: Clicking on Actor (CTRL LMB): DissappearingPlatform_C (DissappearingPlatform20)
+[2018.12.12-01.42.22:082][103]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform17)
+[2018.12.12-01.42.23:856][310]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform17)
+[2018.12.12-01.42.24:176][345]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.42.24:679][400]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint14)
+[2018.12.12-01.42.25:659][512]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform17)
+[2018.12.12-01.42.34:586][517]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint13)
+[2018.12.12-01.42.34:878][546]LogEditorViewport: Clicking on Component (LMB): SceneComponent (DefaultSceneRoot)
+[2018.12.12-01.42.36:085][688]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform16)
+[2018.12.12-01.42.42:214][403]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform5)
+[2018.12.12-01.42.44:508][671]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform5)
+[2018.12.12-01.42.45:485][784]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint)
+[2018.12.12-01.42.46:996][956]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform5)
+[2018.12.12-01.42.54:007][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-01.42.55:509][935]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint)
+[2018.12.12-01.42.55:857][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-01.42.56:989][ 99]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint)
+[2018.12.12-01.43.02:796][782]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform6)
+[2018.12.12-01.43.04:746][ 10]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform6)
+[2018.12.12-01.43.05:126][ 53]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.43.05:673][113]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.43.06:112][163]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.43.06:504][207]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.43.06:987][262]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.43.07:442][314]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-01.43.07:840][359]LogEditorViewport: Clicking on Actor (double click): DissappearingPlatform_C (DissappearingPlatform6)
+[2018.12.12-01.43.08:484][433]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform6)
+[2018.12.12-01.43.08:992][491]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint4)
+[2018.12.12-01.43.10:483][663]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform6)
+[2018.12.12-01.43.14:995][193]Cmd: TRANSACTION UNDO
+[2018.12.12-01.43.14:995][193]LogEditorTransaction: Undo Move Actors
+[2018.12.12-01.43.16:138][315]Cmd: TRANSACTION UNDO
+[2018.12.12-01.43.16:138][315]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.12-01.43.17:224][440]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform6)
+[2018.12.12-01.43.18:820][626]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform6)
+[2018.12.12-01.43.19:197][668]LogEditorViewport: Clicking on Actor (double click): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint4)
+[2018.12.12-01.43.21:398][928]LogEditorViewport: Clicking on Actor (CTRL LMB): DissappearingPlatform_C (DissappearingPlatform6)
+[2018.12.12-01.43.29:409][854]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform8)
+[2018.12.12-01.43.30:401][968]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform8)
+[2018.12.12-01.43.30:810][ 14]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform8)
+[2018.12.12-01.43.31:235][ 62]LogEditorViewport: Clicking on Actor (double click): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint2)
+[2018.12.12-01.43.32:140][167]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform8)
+[2018.12.12-01.43.33:377][310]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform8)
+[2018.12.12-01.43.33:778][355]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform8)
+[2018.12.12-01.43.34:171][399]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint2)
+[2018.12.12-01.43.35:184][515]LogEditorViewport: Clicking on Actor (CTRL LMB): DissappearingPlatform_C (DissappearingPlatform8)
+[2018.12.12-01.43.51:426][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-01.43.51:535][449]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.12-01.43.51:561][449]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.Luke_Autumn' with GeneratedClass '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.Luke_Autumn'
+[2018.12.12-01.43.51:562][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.12-01.43.51:652][449]PIE: New page: PIE session: Luke_Autumn (12 Dec 2018 01:43:51)
+[2018.12.12-01.43.51:667][449]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn
+[2018.12.12-01.43.51:941][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.272625s)
+[2018.12.12-01.43.51:942][449]LogAIModule: Creating AISystem for world Luke_Autumn
+[2018.12.12-01.43.51:942][449]LogPlayLevel: PIE: World Init took: (0.001099s)
+[2018.12.12-01.43.51:942][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn to /Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn (0.274777s)
+[2018.12.12-01.43.52:016][449]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.12-01.43.52:035][449]LogInit: FAudioDevice initialized.
+[2018.12.12-01.43.52:116][449]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.12-01.43.52:173][449]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn up for play (max tick rate 0) at 2018.12.12-01.43.52
+[2018.12.12-01.43.52:175][449]LogWorld: Bringing up level for play took: 0.035562
+[2018.12.12-01.43.52:216][449]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.12.12-01.43.52:269][449]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0016 seconds. Added 20 classes and 0 folders.
+[2018.12.12-01.43.52:304][449]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn:PersistentLevel.FirstPersonCharacter_C_0.Mesh2P' Bone: 'lowerarm_l' 
+[2018.12.12-01.43.52:304][449]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn:PersistentLevel.FirstPersonCharacter_C_0.Mesh2P' Bone: 'hand_l' 
+[2018.12.12-01.43.52:304][449]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn:PersistentLevel.FirstPersonCharacter_C_0.Mesh2P' Bone: 'upperarm_l' 
+[2018.12.12-01.43.52:304][449]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn:PersistentLevel.FirstPersonCharacter_C_0.Mesh2P' Bone: 'spine_03' 
+[2018.12.12-01.43.52:304][449]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn:PersistentLevel.FirstPersonCharacter_C_0.Mesh2P' Bone: 'hand_r' 
+[2018.12.12-01.43.52:304][449]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn:PersistentLevel.FirstPersonCharacter_C_0.Mesh2P' Bone: 'lowerarm_r' 
+[2018.12.12-01.43.52:304][449]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn:PersistentLevel.FirstPersonCharacter_C_0.Mesh2P' Bone: 'upperarm_r' 
+[2018.12.12-01.43.52:305][449]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn.Luke_Autumn:PersistentLevel.FirstPersonCharacter_C_0.Sphere' 
+[2018.12.12-01.43.52:323][449]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_Luke_Autumn 1.159
+[2018.12.12-01.43.52:324][449]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.Luke_Autumn' with GeneratedClass '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.Luke_Autumn'
+[2018.12.12-01.47.32:531][789]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.Luke_Autumn' with GeneratedClass '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.Luke_Autumn'
+[2018.12.12-01.47.32:531][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-01.47.32:568][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.12-01.47.32:569][789]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.Luke_Autumn' with GeneratedClass '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.Luke_Autumn'
+[2018.12.12-01.47.32:595][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.12-01.47.32:642][790]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.12.12-01.47.39:429][560]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform15)
+[2018.12.12-01.47.40:422][674]Cmd: DELETE
+[2018.12.12-01.47.40:423][674]Cmd: ACTOR DELETE
+[2018.12.12-01.47.40:447][674]LogEditorActor: Deleted Actor: DissappearingPlatform_C
+[2018.12.12-01.47.40:466][674]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2018.12.12-01.47.44:426][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-01.47.45:034][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-01.49.00:730][476]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-01.49.04:923][911]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform14)
+[2018.12.12-01.49.05:472][966]Cmd: DELETE
+[2018.12.12-01.49.05:472][966]Cmd: ACTOR DELETE
+[2018.12.12-01.49.05:505][966]LogEditorActor: Deleted Actor: DissappearingPlatform_C
+[2018.12.12-01.49.05:526][966]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2018.12.12-01.49.11:359][664]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform29)
+[2018.12.12-01.49.11:752][705]Cmd: DELETE
+[2018.12.12-01.49.11:752][705]Cmd: ACTOR DELETE
+[2018.12.12-01.49.11:777][705]LogEditorActor: Deleted Actor: DissappearingPlatform_C
+[2018.12.12-01.49.11:796][705]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2018.12.12-01.49.14:908][ 51]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform16)
+[2018.12.12-01.49.15:561][124]Cmd: DELETE
+[2018.12.12-01.49.15:561][124]Cmd: ACTOR DELETE
+[2018.12.12-01.49.15:585][124]LogEditorActor: Deleted Actor: DissappearingPlatform_C
+[2018.12.12-01.49.15:603][124]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2018.12.12-01.49.16:245][200]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform6)
+[2018.12.12-01.49.16:394][213]Cmd: DELETE
+[2018.12.12-01.49.16:394][213]Cmd: ACTOR DELETE
+[2018.12.12-01.49.16:418][213]LogEditorActor: Deleted Actor: DissappearingPlatform_C
+[2018.12.12-01.49.16:438][213]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2018.12.12-01.49.19:137][504]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform7)
+[2018.12.12-01.49.19:767][572]Cmd: DELETE
+[2018.12.12-01.49.19:767][572]Cmd: ACTOR DELETE
+[2018.12.12-01.49.19:791][572]LogEditorActor: Deleted Actor: DissappearingPlatform_C
+[2018.12.12-01.49.19:812][572]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2018.12.12-01.49.21:050][719]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform23)
+[2018.12.12-01.49.21:363][751]Cmd: DELETE
+[2018.12.12-01.49.21:363][751]Cmd: ACTOR DELETE
+[2018.12.12-01.49.21:388][751]LogEditorActor: Deleted Actor: DissappearingPlatform_C
+[2018.12.12-01.49.21:408][751]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2018.12.12-01.49.23:092][951]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform19)
+[2018.12.12-01.49.23:202][959]Cmd: DELETE
+[2018.12.12-01.49.23:202][959]Cmd: ACTOR DELETE
+[2018.12.12-01.49.23:226][959]LogEditorActor: Deleted Actor: DissappearingPlatform_C
+[2018.12.12-01.49.23:247][959]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2018.12.12-01.49.28:548][594]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform28)
+[2018.12.12-01.49.28:806][620]Cmd: DELETE
+[2018.12.12-01.49.28:806][620]Cmd: ACTOR DELETE
+[2018.12.12-01.49.28:831][620]LogEditorActor: Deleted Actor: DissappearingPlatform_C
+[2018.12.12-01.49.28:850][620]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2018.12.12-01.49.35:079][330]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform11)
+[2018.12.12-01.49.39:652][832]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform10)
+[2018.12.12-01.50.00:039][233]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform26)
+[2018.12.12-01.50.02:821][555]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform21)
+[2018.12.12-01.50.19:378][509]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform24)
+[2018.12.12-01.50.19:921][569]Cmd: DELETE
+[2018.12.12-01.50.19:921][569]Cmd: ACTOR DELETE
+[2018.12.12-01.50.19:945][569]LogEditorActor: Deleted Actor: DissappearingPlatform_C
+[2018.12.12-01.50.19:969][569]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2018.12.12-01.50.28:452][582]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform5)
+[2018.12.12-01.50.31:728][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-01.50.32:237][ 15]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform8)
+[2018.12.12-01.50.37:801][669]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform5)
+[2018.12.12-01.50.43:915][388]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform20)
+[2018.12.12-01.51.31:765][287]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-01.51.38:654][  7]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-01.51.39:569][  7]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Luke_Autumn_Auto31EF1C22E411B365B6434C9B1209928EB.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Autosaves/Game/FirstPersonBP/Maps/Luke_Autumn_Auto3.umap'
+[2018.12.12-01.51.39:573][  7]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Luke_Autumn' took 0.906
+[2018.12.12-01.51.39:573][  7]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.906
+[2018.12.12-01.51.41:892][ 78]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.12.12-01.51.47:998][732]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-01.51.54:182][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-01.52.05:356][684]Cmd: TRANSACTION UNDO
+[2018.12.12-01.52.05:356][684]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2018.12.12-01.52.05:475][684]LogTexture: Display: Building textures: Texture2D_213 (BGRA8, 512X512)
+[2018.12.12-01.52.23:468][708]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-01.52.29:385][341]Cmd: TRANSACTION UNDO
+[2018.12.12-01.52.29:385][341]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2018.12.12-01.52.29:430][341]LogTexture: Display: Building textures: Texture2D_213 (BGRA8, 512X512)
+[2018.12.12-01.53.08:560][735]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-01.53.14:024][325]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-01.54.01:378][713]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-01.54.01:611][713]LogTexture: Display: Building textures: Texture2D_213 (BGRA8, 512X512)
+[2018.12.12-01.54.02:310][713]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Luke_Autumn245954074674742FFD4389A29A9F37C2.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Content/FirstPersonBP/Maps/Luke_Autumn.umap'
+[2018.12.12-02.44.20:986][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-02.44.22:625][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-02.44.54:190][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-02.45.05:582][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-02.45.16:979][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-02.45.52:512][138]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Luke_Autumn_Auto45C9EEC07486F0DFE18BBDD8740DC71D0.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Autosaves/Game/FirstPersonBP/Maps/Luke_Autumn_Auto4.umap'
+[2018.12.12-02.45.52:519][138]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Luke_Autumn' took 1.135
+[2018.12.12-02.45.52:519][138]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.135
+[2018.12.12-02.46.13:753][450]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-02.46.16:708][765]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-02.46.19:358][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-02.46.27:242][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-02.46.47:982][277]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-02.47.21:398][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-02.47.49:498][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-02.47.58:681][365]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-02.50.39:212][945]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape3)
+[2018.12.12-02.50.58:830][717]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape3)
+[2018.12.12-02.51.04:908][286]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-02.51.07:005][426]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-02.51.09:992][640]LogClient: High resolution screenshot saved as C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Screenshots/Windows/HighresScreenshot00004.png
+[2018.12.12-02.51.14:496][789]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2018.12.12-02.51.19:823][292]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.19:823][292]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.12-02.51.20:244][319]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.20:244][319]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.20:454][323]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.20:454][323]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.20:642][324]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.20:642][324]LogEditorTransaction: Undo Select Brush Surface
+[2018.12.12-02.51.20:823][326]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.20:823][326]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.12-02.51.21:011][340]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.21:011][340]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.21:190][344]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.21:190][344]LogEditorTransaction: Undo Select Brush Surface
+[2018.12.12-02.51.21:371][355]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.21:371][355]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.21:610][355]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.21:610][355]LogEditorTransaction: Undo Select Brush Surface
+[2018.12.12-02.51.22:141][356]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.22:141][356]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.22:222][356]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.22:222][356]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.22:342][356]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.22:342][356]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.23:069][356]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.23:069][356]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.23:245][356]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.23:245][356]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.23:327][356]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.23:327][356]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.23:426][356]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.23:426][356]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.23:511][356]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.23:511][356]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.23:696][356]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.23:697][356]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.23:799][356]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.23:799][356]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.23:866][356]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.23:866][356]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.23:938][356]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.23:938][356]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.24:251][358]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.24:252][358]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.24:317][358]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.24:317][358]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.24:453][360]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.24:453][360]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.24:674][363]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.24:674][363]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.24:888][374]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.24:888][374]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.25:078][383]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.25:078][383]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.25:255][392]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.25:256][392]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.25:445][403]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.25:445][403]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.25:644][416]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.25:644][416]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.25:829][426]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.25:829][426]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.26:034][440]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.26:034][440]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.26:227][452]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.26:227][452]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.26:412][464]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.26:412][464]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.26:609][477]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.26:609][477]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.26:813][490]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.26:813][490]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.27:004][503]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.27:004][503]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.27:190][515]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.27:190][515]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.27:368][527]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.27:368][527]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.27:557][539]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.27:557][539]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.28:140][540]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.28:140][540]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.28:196][540]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.28:196][540]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.28:236][540]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.28:236][540]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.28:328][543]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.28:328][543]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.28:522][557]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.28:522][557]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.28:983][563]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.28:983][563]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.29:022][563]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.29:022][563]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.29:087][565]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.29:087][565]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.29:288][579]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.29:288][579]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.29:476][593]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.29:476][593]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.29:668][607]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.29:668][607]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.29:877][623]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.29:877][623]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.30:065][637]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.30:065][637]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.30:276][654]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.30:276][654]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.30:473][668]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.30:473][668]LogEditorTransaction: Undo Select Brush Surface
+[2018.12.12-02.51.30:674][685]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.30:674][685]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.31:167][709]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.31:167][709]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.31:546][743]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.31:546][743]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.31:928][776]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.31:928][776]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.32:309][809]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.32:309][809]LogEditorTransaction: Undo Scale Actors
+[2018.12.12-02.51.32:330][809]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_0, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.12.12-02.51.32:943][809]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_0' invalid (256 verts, 0 indices).
+[2018.12.12-02.51.32:943][809]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_0.BodySetup_0 when we are unable to.
+[2018.12.12-02.51.32:944][809]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_1, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.12.12-02.51.32:944][809]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_1' invalid (256 verts, 0 indices).
+[2018.12.12-02.51.32:944][809]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_1.BodySetup_0 when we are unable to.
+[2018.12.12-02.51.32:944][809]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_2, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.12.12-02.51.32:944][809]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_2' invalid (256 verts, 0 indices).
+[2018.12.12-02.51.32:944][809]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_2.BodySetup_0 when we are unable to.
+[2018.12.12-02.51.32:944][809]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_3, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.12.12-02.51.32:944][809]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_3' invalid (256 verts, 0 indices).
+[2018.12.12-02.51.32:944][809]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_3.BodySetup_0 when we are unable to.
+[2018.12.12-02.51.32:944][809]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_4, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.12.12-02.51.32:944][809]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_4' invalid (256 verts, 0 indices).
+[2018.12.12-02.51.32:944][809]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_4.BodySetup_0 when we are unable to.
+[2018.12.12-02.51.32:944][809]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_5, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.12.12-02.51.32:944][809]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_5' invalid (256 verts, 0 indices).
+[2018.12.12-02.51.32:944][809]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_5.BodySetup_0 when we are unable to.
+[2018.12.12-02.51.32:945][809]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_6, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.12.12-02.51.32:945][809]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_6, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.12.12-02.51.32:945][809]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_6' invalid (256 verts, 0 indices).
+[2018.12.12-02.51.32:945][809]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_6.BodySetup_0 when we are unable to.
+[2018.12.12-02.51.32:945][809]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_7, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.12.12-02.51.32:945][809]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_7' invalid (256 verts, 0 indices).
+[2018.12.12-02.51.32:945][809]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_7.BodySetup_0 when we are unable to.
+[2018.12.12-02.51.32:945][809]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_8, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.12.12-02.51.32:945][809]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_8' invalid (256 verts, 0 indices).
+[2018.12.12-02.51.32:945][809]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_8.BodySetup_0 when we are unable to.
+[2018.12.12-02.51.32:945][809]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_9, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.12.12-02.51.32:945][809]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_9' invalid (256 verts, 0 indices).
+[2018.12.12-02.51.32:945][809]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_9.BodySetup_0 when we are unable to.
+[2018.12.12-02.51.32:945][809]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_10, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.12.12-02.51.32:945][809]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_10' invalid (256 verts, 0 indices).
+[2018.12.12-02.51.32:945][809]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_10.BodySetup_0 when we are unable to.
+[2018.12.12-02.51.32:945][809]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_11, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.12.12-02.51.32:945][809]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_11' invalid (256 verts, 0 indices).
+[2018.12.12-02.51.32:945][809]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_11.BodySetup_0 when we are unable to.
+[2018.12.12-02.51.32:945][809]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_12, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.12.12-02.51.32:945][809]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_12' invalid (256 verts, 0 indices).
+[2018.12.12-02.51.32:945][809]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_12.BodySetup_0 when we are unable to.
+[2018.12.12-02.51.32:946][809]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_13, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.12.12-02.51.32:946][809]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_13' invalid (256 verts, 0 indices).
+[2018.12.12-02.51.32:946][809]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_13.BodySetup_0 when we are unable to.
+[2018.12.12-02.51.32:946][809]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_14, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.12.12-02.51.32:946][809]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_14' invalid (256 verts, 0 indices).
+[2018.12.12-02.51.32:946][809]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_14.BodySetup_0 when we are unable to.
+[2018.12.12-02.51.32:946][809]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_15, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.12.12-02.51.32:946][809]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_15' invalid (256 verts, 0 indices).
+[2018.12.12-02.51.32:946][809]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_15.BodySetup_0 when we are unable to.
+[2018.12.12-02.51.32:946][809]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_16, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.12.12-02.51.32:946][809]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_16' invalid (256 verts, 0 indices).
+[2018.12.12-02.51.32:946][809]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_16.BodySetup_0 when we are unable to.
+[2018.12.12-02.51.32:946][809]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_17, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.12.12-02.51.32:946][809]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_17' invalid (256 verts, 0 indices).
+[2018.12.12-02.51.32:946][809]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_17.BodySetup_0 when we are unable to.
+[2018.12.12-02.51.32:946][809]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_18, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.12.12-02.51.32:946][809]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_18' invalid (256 verts, 0 indices).
+[2018.12.12-02.51.32:946][809]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_18.BodySetup_0 when we are unable to.
+[2018.12.12-02.51.32:946][809]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_19, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.12.12-02.51.32:946][809]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_19' invalid (256 verts, 0 indices).
+[2018.12.12-02.51.32:946][809]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/Luke_Autumn.Luke_Autumn:PersistentLevel.ModelComponent_19.BodySetup_0 when we are unable to.
+[2018.12.12-02.51.32:964][809]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.32:964][809]LogEditorTransaction: Undo Set Material
+[2018.12.12-02.51.33:056][811]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.33:056][811]LogEditorTransaction: Undo Select Brush Surface
+[2018.12.12-02.51.33:958][899]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.33:958][899]LogEditorTransaction: Undo Modifier [Edit]
+[2018.12.12-02.51.34:379][939]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.34:379][939]LogEditorTransaction: Undo Modifier [Triangulate]
+[2018.12.12-02.51.34:772][975]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.34:772][975]LogEditorTransaction: Undo Modifier [Flip]
+[2018.12.12-02.51.35:164][  7]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.35:164][  7]LogEditorTransaction: Undo Modifier [Optimize]
+[2018.12.12-02.51.35:530][ 41]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.35:530][ 41]LogEditorTransaction: Undo Modifier [Brush Clip]
+[2018.12.12-02.51.35:937][ 73]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.35:938][ 73]LogEditorTransaction: Undo Edit Enable Brush Flow
+[2018.12.12-02.51.36:270][ 99]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.36:270][ 99]LogEditorTransaction: Undo Edit Enable Brush Flow
+[2018.12.12-02.51.36:600][130]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.36:600][130]LogEditorTransaction: Undo Edit Color View Mode
+[2018.12.12-02.51.36:960][164]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.36:960][164]LogEditorTransaction: Undo Edit Color View Mode
+[2018.12.12-02.51.37:212][189]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.37:212][189]LogEditorTransaction: Undo Filling Per-Instance Vertex Colors
+[2018.12.12-02.51.37:444][189]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.37:444][189]LogEditorTransaction: Undo Filling Per-Instance Vertex Colors
+[2018.12.12-02.51.37:648][208]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.37:648][208]LogEditorTransaction: Undo Edit Radius
+[2018.12.12-02.51.37:965][238]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.37:965][238]LogEditorTransaction: Undo Move Actors
+[2018.12.12-02.51.38:636][303]Cmd: TRANSACTION UNDO
+[2018.12.12-02.51.38:636][303]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.12-02.51.45:053][947]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-02.51.48:855][947]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Luke_Autumn500AF45645345DB1A224E987A735BBD5.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Content/FirstPersonBP/Maps/Luke_Autumn.umap'
+[2018.12.12-02.55.38:338][741]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-02.55.38:585][767]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-02.55.39:110][815]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-02.55.40:557][939]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-02.55.41:911][ 48]LogClient: High resolution screenshot saved as C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Screenshots/Windows/HighresScreenshot00005.png
+[2018.12.12-02.55.44:104][207]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2018.12.12-02.56.33:250][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-02.56.34:692][173]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-02.56.36:209][329]LogClient: High resolution screenshot saved as C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Screenshots/Windows/HighresScreenshot00006.png
+[2018.12.12-02.56.38:103][511]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2018.12.12-02.56.53:371][339]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.12.12-02.56.53:943][394]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-02.56.55:748][575]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-02.56.57:215][726]LogClient: High resolution screenshot saved as C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Screenshots/Windows/HighresScreenshot00007.png
+[2018.12.12-02.56.59:657][960]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2018.12.12-02.57.14:433][670]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-02.57.15:968][788]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-02.57.17:074][871]LogClient: High resolution screenshot saved as C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Screenshots/Windows/HighresScreenshot00008.png
+[2018.12.12-02.57.17:997][935]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2018.12.12-02.57.26:416][913]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint21)
+[2018.12.12-02.57.27:419][ 19]Cmd: DELETE
+[2018.12.12-02.57.27:419][ 19]Cmd: ACTOR DELETE
+[2018.12.12-02.57.27:516][ 19]LogEditorActor: Deleted Actor: Launch_Pad_Small_Blueprint_C
+[2018.12.12-02.57.27:583][ 19]LogEditorActor: Deleted 1 Actors (0.164 secs)
+[2018.12.12-02.57.28:772][161]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform25)
+[2018.12.12-02.57.29:398][230]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform25)
+[2018.12.12-02.57.29:988][297]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform25)
+[2018.12.12-02.57.30:397][343]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform25)
+[2018.12.12-02.57.30:745][381]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-02.57.31:429][458]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint22)
+[2018.12.12-02.57.31:928][512]Cmd: DELETE
+[2018.12.12-02.57.31:928][512]Cmd: ACTOR DELETE
+[2018.12.12-02.57.31:951][512]LogEditorActor: Deleted Actor: Launch_Pad_Small_Blueprint_C
+[2018.12.12-02.57.31:972][512]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2018.12.12-02.57.33:237][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-02.57.33:856][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-02.57.34:399][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-02.57.35:105][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-02.57.35:488][914]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.12.12-02.57.36:049][977]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint24)
+[2018.12.12-02.57.36:607][ 38]Cmd: DELETE
+[2018.12.12-02.57.36:607][ 38]Cmd: ACTOR DELETE
+[2018.12.12-02.57.36:633][ 38]LogEditorActor: Deleted Actor: Launch_Pad_Small_Blueprint_C
+[2018.12.12-02.57.36:651][ 38]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2018.12.12-02.57.37:552][145]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint16)
+[2018.12.12-02.57.37:962][189]Cmd: DELETE
+[2018.12.12-02.57.37:962][189]Cmd: ACTOR DELETE
+[2018.12.12-02.57.37:984][189]LogEditorActor: Deleted Actor: Launch_Pad_Small_Blueprint_C
+[2018.12.12-02.57.38:003][189]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2018.12.12-02.57.39:121][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-02.57.39:925][410]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-02.57.40:362][459]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-02.57.40:766][504]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.12.12-02.57.41:360][570]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.12.12-02.57.41:812][621]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.12.12-02.57.42:198][664]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint20)
+[2018.12.12-02.57.42:676][716]Cmd: DELETE
+[2018.12.12-02.57.42:676][716]Cmd: ACTOR DELETE
+[2018.12.12-02.57.42:699][716]LogEditorActor: Deleted Actor: Launch_Pad_Small_Blueprint_C
+[2018.12.12-02.57.42:717][716]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2018.12.12-02.57.43:709][834]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform22)
+[2018.12.12-02.57.44:319][902]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform22)
+[2018.12.12-02.57.44:590][931]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-02.57.45:218][  1]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-02.57.45:523][ 35]LogEditorViewport: Clicking on Actor (double click): DissappearingPlatform_C (DissappearingPlatform22)
+[2018.12.12-02.57.46:049][ 95]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform22)
+[2018.12.12-02.57.46:485][144]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform22)
+[2018.12.12-02.57.46:904][191]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform22)
+[2018.12.12-02.57.47:626][275]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform22)
+[2018.12.12-02.57.48:789][411]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform22)
+[2018.12.12-02.57.49:086][443]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-02.57.49:536][492]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-02.57.49:836][525]LogEditorViewport: Clicking on Actor (double click): DissappearingPlatform_C (DissappearingPlatform22)
+[2018.12.12-02.57.50:263][573]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform22)
+[2018.12.12-02.57.50:423][589]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-02.57.50:869][638]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Platform)
+[2018.12.12-02.57.50:975][648]LogEditorViewport: Clicking on Actor (double click): DissappearingPlatform_C (DissappearingPlatform22)
+[2018.12.12-02.57.51:310][685]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform22)
+[2018.12.12-02.57.52:545][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-02.57.53:324][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-02.57.53:661][952]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.12.12-02.57.54:282][ 22]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint3)
+[2018.12.12-02.57.55:413][152]Cmd: DELETE
+[2018.12.12-02.57.55:413][152]Cmd: ACTOR DELETE
+[2018.12.12-02.57.55:438][152]LogEditorActor: Deleted Actor: Launch_Pad_Small_Blueprint_C
+[2018.12.12-02.57.55:459][152]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2018.12.12-02.57.59:734][626]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint19)
+[2018.12.12-02.58.00:613][725]Cmd: DELETE
+[2018.12.12-02.58.00:613][725]Cmd: ACTOR DELETE
+[2018.12.12-02.58.00:635][725]LogEditorActor: Deleted Actor: Launch_Pad_Small_Blueprint_C
+[2018.12.12-02.58.00:654][725]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2018.12.12-02.58.03:804][ 83]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint18)
+[2018.12.12-02.58.04:551][168]Cmd: DELETE
+[2018.12.12-02.58.04:551][168]Cmd: ACTOR DELETE
+[2018.12.12-02.58.04:573][168]LogEditorActor: Deleted Actor: Launch_Pad_Small_Blueprint_C
+[2018.12.12-02.58.04:591][168]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2018.12.12-02.58.07:968][536]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint23)
+[2018.12.12-02.58.08:951][649]Cmd: DELETE
+[2018.12.12-02.58.08:951][649]Cmd: ACTOR DELETE
+[2018.12.12-02.58.08:973][649]LogEditorActor: Deleted Actor: Launch_Pad_Small_Blueprint_C
+[2018.12.12-02.58.08:993][649]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2018.12.12-02.58.11:551][925]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint25)
+[2018.12.12-02.58.11:846][956]Cmd: DELETE
+[2018.12.12-02.58.11:846][956]Cmd: ACTOR DELETE
+[2018.12.12-02.58.11:868][956]LogEditorActor: Deleted Actor: Launch_Pad_Small_Blueprint_C
+[2018.12.12-02.58.11:888][956]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2018.12.12-02.58.13:928][170]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint13)
+[2018.12.12-02.58.14:278][205]Cmd: DELETE
+[2018.12.12-02.58.14:278][205]Cmd: ACTOR DELETE
+[2018.12.12-02.58.14:300][205]LogEditorActor: Deleted Actor: Launch_Pad_Small_Blueprint_C
+[2018.12.12-02.58.14:319][205]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2018.12.12-02.58.16:620][452]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint)
+[2018.12.12-02.58.17:093][503]Cmd: DELETE
+[2018.12.12-02.58.17:093][503]Cmd: ACTOR DELETE
+[2018.12.12-02.58.17:116][503]LogEditorActor: Deleted Actor: Launch_Pad_Small_Blueprint_C
+[2018.12.12-02.58.17:135][503]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2018.12.12-02.58.18:113][619]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint4)
+[2018.12.12-02.58.18:391][648]Cmd: DELETE
+[2018.12.12-02.58.18:391][648]Cmd: ACTOR DELETE
+[2018.12.12-02.58.18:414][648]LogEditorActor: Deleted Actor: Launch_Pad_Small_Blueprint_C
+[2018.12.12-02.58.18:435][648]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2018.12.12-02.58.19:460][770]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint2)
+[2018.12.12-02.58.19:815][808]Cmd: DELETE
+[2018.12.12-02.58.19:815][808]Cmd: ACTOR DELETE
+[2018.12.12-02.58.19:838][808]LogEditorActor: Deleted Actor: Launch_Pad_Small_Blueprint_C
+[2018.12.12-02.58.19:858][808]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2018.12.12-02.58.24:131][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-02.58.24:812][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-02.58.25:224][390]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint7)
+[2018.12.12-02.58.25:709][443]Cmd: DELETE
+[2018.12.12-02.58.25:709][443]Cmd: ACTOR DELETE
+[2018.12.12-02.58.25:731][443]LogEditorActor: Deleted Actor: Launch_Pad_Small_Blueprint_C
+[2018.12.12-02.58.25:750][443]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2018.12.12-02.58.29:347][826]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint12)
+[2018.12.12-02.58.29:652][858]Cmd: DELETE
+[2018.12.12-02.58.29:652][858]Cmd: ACTOR DELETE
+[2018.12.12-02.58.29:674][858]LogEditorActor: Deleted Actor: Launch_Pad_Small_Blueprint_C
+[2018.12.12-02.58.29:694][858]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2018.12.12-02.58.31:332][ 54]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform11)
+[2018.12.12-02.58.32:023][131]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform11)
+[2018.12.12-02.58.32:474][182]LogEditorViewport: Clicking on Actor (LMB): DissappearingPlatform_C (DissappearingPlatform11)
+[2018.12.12-02.58.33:020][244]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint8)
+[2018.12.12-02.58.33:527][300]Cmd: DELETE
+[2018.12.12-02.58.33:527][300]Cmd: ACTOR DELETE
+[2018.12.12-02.58.33:549][300]LogEditorActor: Deleted Actor: Launch_Pad_Small_Blueprint_C
+[2018.12.12-02.58.33:569][300]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2018.12.12-02.58.35:094][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-02.58.35:746][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-02.58.36:150][597]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CalmLargePlane2)
+[2018.12.12-02.58.36:417][626]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.12.12-02.58.36:992][690]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint11)
+[2018.12.12-02.58.37:360][729]Cmd: DELETE
+[2018.12.12-02.58.37:360][729]Cmd: ACTOR DELETE
+[2018.12.12-02.58.37:384][729]LogEditorActor: Deleted Actor: Launch_Pad_Small_Blueprint_C
+[2018.12.12-02.58.37:404][729]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2018.12.12-02.58.38:967][916]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint17)
+[2018.12.12-02.58.39:373][960]Cmd: DELETE
+[2018.12.12-02.58.39:373][960]Cmd: ACTOR DELETE
+[2018.12.12-02.58.39:397][960]LogEditorActor: Deleted Actor: Launch_Pad_Small_Blueprint_C
+[2018.12.12-02.58.39:417][960]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2018.12.12-02.58.42:861][308]LogEditorViewport: Clicking on Actor (LMB): Launch_Pad_Small_Blueprint_C (Launch_Pad_Small_Blueprint14)
+[2018.12.12-02.58.43:734][407]Cmd: DELETE
+[2018.12.12-02.58.43:734][407]Cmd: ACTOR DELETE
+[2018.12.12-02.58.43:755][407]LogEditorActor: Deleted Actor: Launch_Pad_Small_Blueprint_C
+[2018.12.12-02.58.43:775][407]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2018.12.12-02.58.59:100][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-02.59.00:447][201]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-02.59.01:718][299]LogClient: High resolution screenshot saved as C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Screenshots/Windows/HighresScreenshot00009.png
+[2018.12.12-02.59.03:027][391]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2018.12.12-02.59.15:559][738]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-02.59.16:420][828]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-02.59.17:564][942]LogClient: High resolution screenshot saved as C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Screenshots/Windows/HighresScreenshot00010.png
+[2018.12.12-02.59.18:606][ 47]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2018.12.12-02.59.51:571][559]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-02.59.52:831][663]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-02.59.54:280][781]LogClient: High resolution screenshot saved as C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Screenshots/Windows/HighresScreenshot00011.png
+[2018.12.12-02.59.55:222][854]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2018.12.12-02.59.55:872][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-03.01.04:023][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-03.01.28:976][300]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-03.01.30:158][413]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-03.01.31:571][554]LogClient: High resolution screenshot saved as C:/Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Screenshots/Windows/HighresScreenshot00012.png
+[2018.12.12-03.01.32:375][625]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2018.12.12-03.01.35:035][913]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-03.02.06:421][670]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Luke_Autumn_Auto5B059532446F8E969381A818FBBDA4129.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Autosaves/Game/FirstPersonBP/Maps/Luke_Autumn_Auto5.umap'
+[2018.12.12-03.02.06:427][670]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/Luke_Autumn' took 0.996
+[2018.12.12-03.02.06:427][670]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.996
+[2018.12.12-03.24.01:769][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-03.24.03:880][731]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Luke_AutumnB3A665DA4D7AB0F14E499A8E7F710699.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Content/FirstPersonBP/Maps/Luke_Autumn.umap'
+[2018.12.12-03.24.15:098][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-03.24.16:080][846]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape3)
+[2018.12.12-03.24.17:234][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-03.25.08:661][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-03.25.32:156][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-03.25.44:861][819]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor1)
+[2018.12.12-03.25.45:988][902]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.12.12-03.25.47:171][ 35]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape3)
+[2018.12.12-03.27.22:554][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.12-03.27.27:077][613]LogSlate: Window 'Save Content' being destroyed
+[2018.12.12-03.27.27:122][613]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.12-03.27.28:178][613]LogSavePackage: Moving '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Saved/Luke_Autumn763854034E4C924C4927B789B01C358C.tmp' to '../../../../../../Users/Luke/Documents/GitHub/Module_8_Final/RunnerGame 4.21/Content/FirstPersonBP/Maps/Luke_Autumn.umap'
+[2018.12.12-03.27.28:219][613]LogFileHelpers: Saving map 'Luke_Autumn' took 1.046
+[2018.12.12-03.27.29:980][613]LogSlate: Window 'Module_8_Final_Build - Unreal Editor' being destroyed
+[2018.12.12-03.27.31:844][613]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2018.12.12-03.27.32:353][614]Cmd: QUIT_EDITOR
+[2018.12.12-03.27.33:955][614]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.12-03.27.34:782][614]LogExit: Preparing to exit.
+[2018.12.12-03.27.37:243][614]LogExit: Editor shut down
+[2018.12.12-03.27.37:268][614]LogExit: Transaction tracking system shut down
+[2018.12.12-03.27.44:681][614]LogExit: Object subsystem successfully closed.
+[2018.12.12-03.27.46:146][614]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.12-03.27.46:298][614]LogD3D11RHI: Shutdown
+[2018.12.12-03.27.46:298][614]LogD3D11RHI: CleanupD3DDevice
+[2018.12.12-03.27.46:529][614]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.12-03.27.49:698][614]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (626)
+[2018.12.12-03.27.49:698][614]LogModuleManager: Shutting down and abandoning module Voice (624)
+[2018.12.12-03.27.49:705][614]LogModuleManager: Shutting down and abandoning module StatsViewer (622)
+[2018.12.12-03.27.49:750][614]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (620)
+[2018.12.12-03.27.49:750][614]LogModuleManager: Shutting down and abandoning module SceneOutliner (618)
+[2018.12.12-03.27.49:797][614]LogModuleManager: Shutting down and abandoning module AddContentDialog (616)
+[2018.12.12-03.27.49:914][614]LogModuleManager: Shutting down and abandoning module WidgetCarousel (615)
+[2018.12.12-03.27.49:914][614]LogModuleManager: Shutting down and abandoning module EditorWidgets (612)
+[2018.12.12-03.27.49:914][614]LogModuleManager: Shutting down and abandoning module CollectionManager (610)
+[2018.12.12-03.27.49:936][614]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2018.12.12-03.27.49:946][614]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2018.12.12-03.27.49:960][614]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2018.12.12-03.27.49:960][614]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2018.12.12-03.27.49:960][614]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2018.12.12-03.27.49:960][614]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2018.12.12-03.27.49:960][614]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2018.12.12-03.27.49:960][614]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2018.12.12-03.27.49:960][614]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2018.12.12-03.27.50:022][614]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2018.12.12-03.27.50:044][614]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2018.12.12-03.27.50:044][614]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2018.12.12-03.27.50:044][614]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2018.12.12-03.27.50:068][614]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2018.12.12-03.27.50:101][614]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2018.12.12-03.27.50:101][614]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2018.12.12-03.27.50:148][614]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2018.12.12-03.27.50:148][614]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2018.12.12-03.27.50:148][614]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2018.12.12-03.27.50:148][614]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2018.12.12-03.27.50:148][614]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2018.12.12-03.27.50:159][614]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2018.12.12-03.27.50:174][614]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2018.12.12-03.27.50:189][614]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2018.12.12-03.27.50:191][614]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2018.12.12-03.27.50:191][614]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2018.12.12-03.27.50:191][614]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2018.12.12-03.27.50:191][614]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2018.12.12-03.27.50:191][614]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2018.12.12-03.27.50:191][614]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2018.12.12-03.27.50:191][614]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2018.12.12-03.27.50:191][614]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2018.12.12-03.27.50:191][614]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2018.12.12-03.27.50:191][614]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2018.12.12-03.27.50:191][614]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2018.12.12-03.27.50:192][614]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2018.12.12-03.27.50:192][614]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2018.12.12-03.27.50:192][614]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2018.12.12-03.27.50:192][614]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2018.12.12-03.27.50:192][614]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2018.12.12-03.27.50:206][614]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2018.12.12-03.27.50:212][614]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2018.12.12-03.27.50:230][614]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2018.12.12-03.27.50:285][614]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2018.12.12-03.27.50:295][614]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2018.12.12-03.27.50:295][614]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2018.12.12-03.27.50:295][614]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2018.12.12-03.27.50:295][614]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2018.12.12-03.27.50:295][614]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2018.12.12-03.27.50:806][614]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2018.12.12-03.27.50:806][614]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2018.12.12-03.27.50:806][614]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2018.12.12-03.27.50:806][614]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2018.12.12-03.27.50:806][614]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2018.12.12-03.27.50:806][614]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2018.12.12-03.27.50:823][614]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2018.12.12-03.27.50:828][614]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2018.12.12-03.27.50:843][614]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2018.12.12-03.27.50:846][614]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2018.12.12-03.27.50:847][614]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2018.12.12-03.27.50:855][614]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2018.12.12-03.27.50:859][614]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2018.12.12-03.27.50:859][614]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2018.12.12-03.27.50:864][614]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2018.12.12-03.27.50:864][614]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2018.12.12-03.27.50:865][614]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2018.12.12-03.27.50:865][614]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2018.12.12-03.27.50:941][614]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2018.12.12-03.27.50:996][614]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2018.12.12-03.27.51:013][614]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2018.12.12-03.27.51:034][614]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2018.12.12-03.27.51:050][614]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2018.12.12-03.27.51:106][614]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2018.12.12-03.27.51:123][614]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2018.12.12-03.27.51:130][614]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2018.12.12-03.27.51:137][614]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2018.12.12-03.27.51:137][614]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2018.12.12-03.27.51:146][614]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2018.12.12-03.27.51:146][614]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2018.12.12-03.27.51:157][614]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2018.12.12-03.27.51:157][614]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2018.12.12-03.27.51:157][614]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2018.12.12-03.27.51:171][614]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2018.12.12-03.27.51:190][614]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2018.12.12-03.27.51:190][614]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2018.12.12-03.27.51:190][614]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2018.12.12-03.27.51:193][614]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2018.12.12-03.27.51:193][614]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2018.12.12-03.27.51:193][614]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2018.12.12-03.27.51:197][614]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2018.12.12-03.27.51:197][614]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2018.12.12-03.27.51:197][614]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2018.12.12-03.27.51:206][614]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2018.12.12-03.27.51:216][614]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2018.12.12-03.27.51:217][614]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2018.12.12-03.27.51:217][614]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2018.12.12-03.27.51:217][614]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2018.12.12-03.27.51:217][614]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2018.12.12-03.27.51:217][614]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2018.12.12-03.27.51:237][614]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2018.12.12-03.27.51:237][614]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2018.12.12-03.27.51:245][614]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2018.12.12-03.27.51:246][614]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2018.12.12-03.27.51:254][614]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2018.12.12-03.27.51:258][614]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.12.12-03.27.51:367][614]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.12.12-03.27.51:411][614]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.12.12-03.27.51:411][614]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.12.12-03.27.51:411][614]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.12.12-03.27.51:420][614]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.12.12-03.27.51:420][614]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.12.12-03.27.51:420][614]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.12.12-03.27.51:422][614]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.12.12-03.27.51:422][614]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.12.12-03.27.51:430][614]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.12.12-03.27.51:430][614]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.12.12-03.27.51:430][614]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.12.12-03.27.51:430][614]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.12.12-03.27.51:435][614]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.12.12-03.27.51:446][614]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2018.12.12-03.27.51:446][614]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2018.12.12-03.27.51:446][614]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2018.12.12-03.27.51:450][614]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2018.12.12-03.27.51:450][614]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2018.12.12-03.27.51:450][614]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2018.12.12-03.27.51:450][614]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2018.12.12-03.27.51:457][614]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2018.12.12-03.27.51:457][614]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2018.12.12-03.27.51:457][614]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.12.12-03.27.51:457][614]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.12.12-03.27.51:457][614]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.12.12-03.27.51:457][614]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.12.12-03.27.51:457][614]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.12.12-03.27.51:457][614]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2018.12.12-03.27.51:457][614]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2018.12.12-03.27.51:481][614]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.12.12-03.27.51:481][614]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.12.12-03.27.51:538][614]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.12.12-03.27.51:560][614]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.12.12-03.27.51:560][614]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.12.12-03.27.51:568][614]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.12.12-03.27.51:575][614]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.12.12-03.27.51:575][614]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.12.12-03.27.51:575][614]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.12.12-03.27.51:575][614]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.12.12-03.27.51:575][614]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.12.12-03.27.51:585][614]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.12.12-03.27.51:599][614]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.12.12-03.27.51:604][614]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.12.12-03.27.51:604][614]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.12.12-03.27.51:631][614]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2018.12.12-03.27.51:631][614]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2018.12.12-03.27.51:631][614]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2018.12.12-03.27.51:631][614]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2018.12.12-03.27.51:631][614]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2018.12.12-03.27.51:631][614]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2018.12.12-03.27.51:657][614]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2018.12.12-03.27.51:657][614]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2018.12.12-03.27.51:657][614]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2018.12.12-03.27.51:657][614]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2018.12.12-03.27.51:657][614]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2018.12.12-03.27.51:663][614]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2018.12.12-03.27.51:663][614]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.12.12-03.27.51:663][614]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.12.12-03.27.51:764][614]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.12.12-03.27.51:881][614]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.12.12-03.27.51:881][614]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.12.12-03.27.51:895][614]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.12.12-03.27.51:895][614]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.12.12-03.27.51:895][614]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.12.12-03.27.51:895][614]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.12.12-03.27.51:903][614]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.12.12-03.27.51:916][614]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.12.12-03.27.51:926][614]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.12.12-03.27.51:927][614]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.12.12-03.27.51:927][614]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.12.12-03.27.51:982][614]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.12.12-03.27.51:986][614]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.12.12-03.27.52:002][614]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.12.12-03.27.52:002][614]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.12.12-03.27.52:002][614]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.12.12-03.27.52:019][614]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.12.12-03.27.52:026][614]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2018.12.12-03.27.52:026][614]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2018.12.12-03.27.52:031][614]LogModuleManager: Shutting down and abandoning module Media (241)
+[2018.12.12-03.27.52:037][614]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2018.12.12-03.27.52:037][614]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2018.12.12-03.27.52:037][614]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2018.12.12-03.27.52:067][614]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2018.12.12-03.27.52:068][614]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2018.12.12-03.27.52:068][614]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2018.12.12-03.27.52:068][614]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2018.12.12-03.27.52:086][614]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2018.12.12-03.27.52:093][614]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2018.12.12-03.27.52:093][614]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2018.12.12-03.27.52:111][614]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2018.12.12-03.27.52:118][614]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2018.12.12-03.27.52:125][614]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2018.12.12-03.27.52:126][614]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2018.12.12-03.27.52:126][614]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2018.12.12-03.27.52:134][614]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2018.12.12-03.27.52:181][614]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2018.12.12-03.27.52:184][614]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2018.12.12-03.27.52:200][614]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2018.12.12-03.27.52:200][614]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2018.12.12-03.27.52:239][614]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2018.12.12-03.27.52:273][614]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2018.12.12-03.27.52:273][614]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2018.12.12-03.27.52:273][614]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2018.12.12-03.27.52:273][614]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2018.12.12-03.27.52:273][614]LogModuleManager: Shutting down and abandoning module Core (186)
+[2018.12.12-03.27.52:273][614]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2018.12.12-03.27.52:273][614]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2018.12.12-03.27.52:273][614]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2018.12.12-03.27.52:276][614]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2018.12.12-03.27.52:289][614]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2018.12.12-03.27.52:289][614]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2018.12.12-03.27.52:293][614]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2018.12.12-03.27.52:303][614]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2018.12.12-03.27.52:303][614]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2018.12.12-03.27.52:308][614]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2018.12.12-03.27.52:313][614]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2018.12.12-03.27.52:314][614]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2018.12.12-03.27.52:410][614]LogDerivedDataCache: Shutdown
+[2018.12.12-03.27.52:410][614]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2018.12.12-03.27.52:432][614]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2018.12.12-03.27.52:433][614]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2018.12.12-03.27.52:472][614]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2018.12.12-03.27.52:514][614]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2018.12.12-03.27.52:528][614]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2018.12.12-03.27.52:528][614]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2018.12.12-03.27.52:556][614]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2018.12.12-03.27.52:556][614]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2018.12.12-03.27.52:556][614]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2018.12.12-03.27.52:568][614]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2018.12.12-03.27.52:575][614]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2018.12.12-03.27.52:575][614]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2018.12.12-03.27.52:575][614]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2018.12.12-03.27.52:575][614]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2018.12.12-03.27.52:575][614]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2018.12.12-03.27.52:575][614]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2018.12.12-03.27.52:575][614]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2018.12.12-03.27.52:671][614]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2018.12.12-03.27.52:672][614]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2018.12.12-03.27.52:672][614]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2018.12.12-03.27.52:672][614]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2018.12.12-03.27.52:672][614]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2018.12.12-03.27.52:684][614]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2018.12.12-03.27.52:684][614]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2018.12.12-03.27.52:691][614]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2018.12.12-03.27.52:691][614]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2018.12.12-03.27.52:773][614]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2018.12.12-03.27.52:773][614]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2018.12.12-03.27.52:773][614]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2018.12.12-03.27.52:773][614]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2018.12.12-03.27.52:773][614]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2018.12.12-03.27.52:773][614]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2018.12.12-03.27.52:773][614]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2018.12.12-03.27.52:773][614]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2018.12.12-03.27.52:773][614]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2018.12.12-03.27.52:773][614]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2018.12.12-03.27.52:773][614]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2018.12.12-03.27.52:796][614]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2018.12.12-03.27.52:796][614]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2018.12.12-03.27.52:815][614]LogHMD: Freeing OpenVRDLLHandle.
+[2018.12.12-03.27.52:815][614]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2018.12.12-03.27.52:822][614]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2018.12.12-03.27.52:822][614]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2018.12.12-03.27.52:822][614]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2018.12.12-03.27.52:822][614]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2018.12.12-03.27.52:832][614]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2018.12.12-03.27.52:843][614]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2018.12.12-03.27.52:860][614]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2018.12.12-03.27.52:860][614]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.12.12-03.27.52:860][614]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B447E0575-4AF5-7837-EC24-FAB14C6A4E93%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=14b683d548f647a31e70769f2ab374b1%7C306e6f41d9324f7d9b752bc42faa6de5%7C6da33e14-c93a-4c1a-8401-7b63eb745492&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.12-03.27.52:892][614]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2018.12.12-03.27.52:895][614]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2018.12.12-03.27.52:895][614]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2018.12.12-03.27.52:895][614]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2018.12.12-03.27.52:895][614]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2018.12.12-03.27.52:895][614]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2018.12.12-03.27.52:895][614]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2018.12.12-03.27.52:895][614]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2018.12.12-03.27.52:895][614]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.12-03.27.52:910][614]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2018.12.12-03.27.52:941][614]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2018.12.12-03.27.52:941][614]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.12-03.27.52:951][614]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.12-03.27.52:951][614]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.12-03.27.52:963][614]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.12-03.27.52:964][614]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.12-03.27.52:964][614]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.12-03.27.52:964][614]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.12-03.27.52:994][614]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.12-03.27.53:026][614]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.12-03.27.53:026][614]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.12-03.27.53:036][614]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.12-03.27.53:036][614]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.12-03.27.53:036][614]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.12-03.27.53:036][614]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.12-03.27.53:040][614]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.12-03.27.53:040][614]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.12-03.27.53:048][614]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.12-03.27.53:048][614]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.12-03.27.53:090][614]LogExit: Exiting.
+[2018.12.12-03.27.53:176][614]Log file closed, 12/12/18 03:27:53
